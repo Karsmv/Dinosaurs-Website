@@ -1,0 +1,11 @@
+/* herbivores start*/
+.herb-component-container{
+    width: 100%;
+    height: 50vw;
+    /* background-color: gold; */
+    position: relative;
+  }
+
+  /* @media only screen and (min-width: 751px){} */
+  /* @media only screen  and (max-width: 751px){} */
+  /* @media only screen and (min-width: 320px) and (max-width: 480px){} */

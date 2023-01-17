@@ -1,0 +1,159 @@
+
+/* header start */
+
+.headerComponent{
+    height: 130vh;
+    width: 100%;
+    background-color: black;
+    display: grid;
+    grid-template-rows: 10% 80%;
+    position: relative;
+  }
+  .head-content{
+    transition: 0.4s;
+    width: 100%;
+    height: 100%;
+    /* background-color: black; */
+    padding-top: 4rem;
+  }
+  
+  .navbar{
+    /* background-color: #171717; */
+    /* background-color: black; */
+    display: flex;
+    align-items: center;
+    justify-content: space-between; 
+    padding: 2rem;
+    padding-top: 3rem;
+  }
+  
+
+  
+  .faunaSaurus-heading{
+    opacity: 0.9;
+    color:#bc3908 ;
+    /* float: left; */
+    font-family: 'Norse-bold';
+    /* max-width: 1rem; */
+    font-size: 2.8rem;
+    /* letter-spacing: .05rem; */
+    text-shadow: -1px 1px   #FFB703;
+  }
+
+  .about-heading{
+    color: white;
+    float: right;
+    transition: 0.4s;
+    opacity: 0.8;
+    cursor: pointer;
+  }
+
+  .about-heading:hover {
+    opacity: 1;
+  }
+
+  .header-column{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .head-herb-btn, .head-carn-btn{
+    opacity: 0.8;
+    text-shadow: 3px 2px #171717;
+    color: #9c6644;
+    transition: 0.3s;
+    cursor: pointer;
+    position: absolute;
+    font-size: 4rem;
+    
+  }
+
+  .head-herb-btn:hover, .head-carn-btn:hover{
+    opacity: 0.8;
+    font-size: 3.5rem;
+    letter-spacing: 0.3rem;
+    padding: 0.5rem 1rem .5rem 1rem;
+    border-radius: 2rem;
+  }
+  .head-herb-btn:hover{
+    color: white;
+    /* background-color: #57cc99; */
+    background-color: #2b9348;
+  }
+
+  .head-carn-btn:hover{
+    color: white;
+    background-color: #81171B;
+  }
+  
+@media only screen and (min-width: 751px){
+    
+  .head-content{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 1rem;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .herbBack, .carnBack{
+    width: 100%;
+    height: 90vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .image-component.carn, .image-component.herb{
+    width: 70%;
+  }
+  .head-herb-btn, .head-carn-btn{
+    float: left;
+    bottom: 3.5rem;
+  }
+  .image-component.triceratops{
+    width: 3rem;
+    position: absolute;
+    bottom: 1rem;
+  }    
+}
+
+  @media only screen  and (max-width: 751px) {
+    .herbBack, .carnBack{
+      display: block;
+      height: 50%;
+      position: relative;
+    }
+    
+    .image-component.herb{
+      float: left;
+      margin-left: 1.5rem;
+    }
+    .image-component.carn{
+      float: right;
+      margin-right: 1rem;
+    }
+    .head-herb-btn, .head-carn-btn{
+      top: 50%;
+      -ms-transform: translateY(-50%);
+      transform: translateY(-50%);
+    }
+    .head-herb-btn{
+      right: 1rem;
+    }
+    .head-carn-btn{
+      left: 1rem;
+    }
+  }
+  @media only screen and (min-width: 320px) and (max-width: 480px){
+    .headerComponent{
+      width: 100%;
+    }
+    .head-content{
+      width: 100%;
+    }
+
+    .navbar > h1{
+      max-width: 1rem;
+    }
+  }

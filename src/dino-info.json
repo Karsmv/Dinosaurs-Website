@@ -1,0 +1,438 @@
+{  
+  "carnivores": [
+    {
+    "diet": "Carnivorous",
+    "name": "Tyrannosaurus Rex",
+    "pronunciation": "tie-RAN-oh-sore-us ",
+    "nameMeaning":"'tyrant lizard'",
+    "temporalRange":"Late Cretaceous",
+    "temporalRangeNumbers":"68-66 million years ago",
+    "type":"Large Theropod",
+    "found":"Canada, USA",
+    "length":"12.0 m",
+    "weight": "7000kg",
+    "firstParagraph":"Tyrannosaurus lives up to its reputation as one of the most fearsome animals of all time. Its powerful jaws had 60 teeth, each one up to 20cm (8 inches) long and its bite was around 3 times as powerful than that of a lion. Bite marks found on Triceratops and Edmontosaurus fossil bones show that Tyrannosaurus could crunch through bone. Analysis of fossilised Tyrannosaurus dung show that it contained the bones of its prey.",
+    "secondParagraph":"The Tyrannosaurus skull was over 1.5m (5 feet) long and the cavity that housed the part of the brain responsible for smell was relatively large. Tyrannosaurus would have used its good sense of smell to hunt live prey and locate dead bodies to scavenge. It would have been able to scare off any other scavengers, so it didn't have to share.",
+      "taxonomy":"Dinosauria, Saurischia, Theropoda, Neotheropoda, Tetanurae, Avetheropoda, Coelurosauria, Tyrannoraptora, Tyrannosauroidea, Tyrannosauridae, Tyrannosaurinae",
+      "namedBy":"Osborn (1905)",
+      "icon":"https://lh3.googleusercontent.com/96DYi3RrE8tMWQP6bxUbFc3U4lx8BRi7In5M3nZQaQm5benENWLT8W_9ifCeQwRmBrllWzNF_rtMYejCTMWKPvrAwZDhOy6XxpoGq0u0RMd9V_1H5eOULOdydocJij-UNihc2TVqc_ifPR8W4VNxKNShGTRcEkOCdTzLGbCLwddEc9J3izReLJRGxFTziwzGMZkmdcCcjqI-3aHGKdiI8LqIma92YWmtz5w8SgBcyoEDraRSdymC4QlDhUayGc6bP8cyxIaCNLgJq6wFGwsF8noC8ZAlptVaCcsyQ9BldVWkKVktAgjPfF9Bus7ckQ5wIM1LdNT79qx0978k_uXCF0b9Ln2xUCGdvSY3vtRPT4SuMcIo3M8mFRwVfcyCHeFP_vyNeQfGck_xXkhoiC7rokVAGQCCK3eJLVdfz8yaUJydvoOztPRZdJD-DEC1PUqLEfl8QWZqot0h7NGn-LhokFnE_YR3qcZkvH3OcI0XpBQ9V83wzFQDsOE0OOob2D9w5I-XKLKv1oVAkHJ9AMpSDcBdLmbd_2kAf-6usiPYR-KJi3-fFh3XIOCpLRAi-Wh03-R-qCQD17ICLS2tYD-FItAZ28xRroZCf3wl5Xy4nsTMbOjIaB0gBsH_46LZsbmJ0b7Qry0MFnUWWyNYRdgC4DZJSgtjdtoz9tZ7ZCLHRe9WaBfuS7Dz5n2nYHOmNsc5w7hH4WYMhm-n--yfsruVTFxO_muhx8nCJ6WNe9C84rtN3yaOS3iBEySMt8MoMDdS8Ky9KpGxNwoR5-1jWBY0Dd2RK-tHfREmrk2sjr1CqBnpF7DPRT2pkmUxVvttgyY5hZKo8xXK6TJWagZKdgPMPHkf2VofpH-nub0Mv5Nl8ahSaUBRPYF9WYR_26Kl_9QdFFPzI-YQymLNeutXapIi9m0Knm5FkuoFMCqvMSwzqmA=w530-h560-no?authuser=0",
+    "skeletonImage":"https://lh3.googleusercontent.com/pw/AL9nZEX0R9lg82ZAmqmRQWX60wtuJcWcbDDmA8E8Q3FobKqgc3ZZ8iYzi9eb-BM31NOMzC8FliZ_WVpUz5LKh17aQd1mhmNhkjp6D7SAp3fUm6N3TgXFvfJ2uA88un1GwQQOh5N9mkM4hg6zqzl6Ht-E9Ss=w1200-h427-no?authuser=0"
+    
+    },
+    {
+      "diet":"Carnivorous",
+      "name":"Velociraptor",
+      "pronunciation":"vel-OSS-ee-rap-tor",
+      "nameMeaning":" 'quick plunderer'",
+      "temporalRange":"Late Cretaceous",
+      "temporalRangeNumbers":"74-70 million years ago",
+      "type":"Small Theropod",
+      "found":"Mongolia",
+      "length": "1.5–2.07 m (4.9–6.8 ft)",
+      "weight":"15–18.3 kg (33–40 lb",
+        "firstParagraph":"As portrayed in the Jurassic Park movies,Velociraptor was recreated at twice its actual size and closely modelled on Deinonychus. Though this was seen as unscientific at the time, soon after the first film was released, a dinosaur of the same type, Utahraptor, was discovered, even larger than the virtual Velociraptors.      Velociraptor is now thought to have had a fine feather-like covering.",
+     
+        "taxonomy":"Dinosauria, Saurischia, Theropoda, Neotheropoda, Tetanurae, Avetheropoda, Coelurosauria, Tyrannoraptora, Maniraptoriformes, Maniraptora, Paraves, Eumaniraptora, Dromaeosauridae",
+        "namedBy":"Osborn (1924)"
+      ,
+      "icon":"https://lh3.googleusercontent.com/pw/AL9nZEXncuoff7VA9h628MHoUpQqpsGKpOTWgHgQrFbu9WDlGPW2XysXjbKNM0swPfr4WhP-C5WMmD5ILV7huO-eVH0D8jvmo9uEyoqPZMOKkhhVfGIKD2FqAgXowv4RFzBWgD1LdIRvpaHm1LxoRFMXvtc=w402-h288-no?authuser=0",
+      "skeletonImage": "https://images.squarespace-cdn.com/content/v1/561aec51e4b076f7055406b9/1487535419691-6O4ZR9F5I0JFYMGPM2NL/Velociraptor-comparison?format=1500w"
+    },
+    {
+      "diet":"Carnivorous",
+      "name":"Carnotaurus",
+      "pronunciation":"Kar-noh-TORE-us",
+      "nameMeaning":"'carnivorous bull'",
+      "temporalRange":"Late Cretaceous",
+      "temporalRangeNumbers":" 71-69 million years ago",
+      "type":"Large Theropod",
+      "found":"Argentina",
+      "length":"7.5 to 8 m (24.6 to 26.2 ft)",
+      "weight":"at least 1.35 metric tons",
+        "firstParagraph":"Carnotaurus was highly specialized and distinctive. It had thick horns above the eyes, a feature unseen in all other carnivorous dinosaurs, and a very deep skull sitting on a muscular neck.",
+        "secondParagraph":"The feeding habits of Carnotaurus remain unclear: some studies suggested the animal was able to hunt down very large prey such as sauropods, while other studies found it preyed mainly on relatively small animals. Its brain cavity suggests an acute sense of smell, while hearing and sight were less well developed. Carnotaurus was probably well adapted for running and was possibly one of the fastest large theropods."            ,
+      
+        "taxonomy":"Dinosauria, Saurischia, Theropoda, Neotheropoda, Ceratosauria, Neoceratosauria, Abelisauridae",
+        "namedBy":"Bonaparte (1985)",
+      "icon":"https://lh3.googleusercontent.com/pw/AL9nZEXi6NZ1KfbD0Z_B1fuItWxPmBZaAPGIlZDZHbwrKRjjnIZapVfQfa8zpPME_uS4fha5hau8hmOeFDLEZTxpSGpeImpl_-t0WUJl1u5XZ2LutoxEAesMJaIEM8M2PI5gn67-m7uuxStXKw6J-CPHUnA=w638-h524-no?authuser=0",
+      "skeletonImage": "https://lh3.googleusercontent.com/H91OqyqylyI8zG0Ng_uO7-BdOotxilMEagvWkFfYGIikBx4oEkJMgd_K8_ku4bj3vmotvxwpJMxR15K_bm-sr-XR6xkAHGu_IEpJAgDGvWcUoAV8KdUP8y5CxqfoLCliliw3BDeik8vFVzCzSp7r5QHgU9g2lRi3rN2IvHg2Jy-NkUhIPPCdY0-roENtpVWUFUxTpBJ5Ikt-1iK5-dhCbRACeoa4fHlPXuo4_MpdPtVZqsewL4LNRrYFLMTkXIYojk6B9if05LT62IKnae3fgLbnfwrwEGLkM8e5pK6KORgl0-36zZdEiaj3KbDxHJmBDnJ-2YGhiPmjwBLYWFvjqUUPpZvI5cutXhrCjryHSQxkPVWGErzBZOQOir054FTFgpbYbKB9bh_7XqdqQJVISizGm6dX4lc-iI2v68rp4G57nlD5mwNiYkoAdmpPooTNa6tbNvd-TWxlqqUF9QdICBw_KvIndxX6isquG652h4m14y1o_QBxL7pFicKz7SbxIbLUiDLvfez57w8ZOR5OK68IOtyiDZb6lETFwCoaPW9q6qVgDryqP2jtn4My82dgmTMgu0fxRSZgNPAEi00QbN-qjVzqAARORJli4DQZd2qeymsB475C7kvzCon9zMINP5Pl2_ZNPsJ2JQVkJ8ab4x9a77JUEirFNW0xAnHOkDir5OAmHiHylZl31LeUqDjdyQ0dWTSzQ1J7iDl_xY8f9SLPP1u-upngM31cV7FRF9H4k-6kA6UP0hleuWP9l9rTnERkp2j-x7rPrnZt2Gm1-LbNOA-yK-MvZ8fwqmA1936tiI6ZXvjVzFvM-X6siVKZCPo7ESM72G22kw0JVvF1BlALKR-yE26zxP9jP3O2UPwvrTzcsj2eXHZyWkPlfQLdY8emhp0gqgMx21-ZhCsr5UVoG-CAJ3WDRpAPExHtT9KO=w1065-h497-no?authuser=0"
+    
+    },
+    {
+      "diet":"Carnivorous",
+      "name":"Albertosaurus",
+      "pronunciation":"al-BERT-oh-saw-russ",
+      "nameMeaning":"'Alberta lizard'",
+      "temporalRange":"Late Cretaceous",
+      "temporalRangeNumbers":"76-74 million years ago",
+      "type":"Large Theropod",
+      "found":"Canada",
+      "length":"up to 8–9 metres (26–30 ft)",
+      "weight":"1.7–2.5 metric tons (1.9–2.8 short tons)",
+      
+        "firstParagraph":"Albertosaurus shared a similar body appearance with all other tyrannosaurids. Typically for a theropod, Albertosaurus was bipedal and balanced the heavy head and torso with a long tail. However, tyrannosaurid forelimbs were extremely small for their body size and retained only two digits. The hind limbs were long and ended in a four-toed foot on which the first digit, called the hallux, was short and did not reach the ground. The third digit was longer than the rest. Albertosaurus may have been able to reach walking speeds of 14–21 km/hour (8–13 mi/hour).[32] At least for the younger individuals, a high running speed is plausible.",
+        "secondParagraph":"The massive skull of Albertosaurus, which was perched on a short, S-shaped neck, was about 1 metre (3.3 feet) long in the largest adults. Unlike most theropods, Albertosaurus and other tyrannosaurids were heterodont, with teeth of different forms depending on their position in the mouth. The premaxillary teeth at the tip of the upper jaw, four per side, were much smaller than the rest, more closely packed, and D-shaped in cross section."
+      ,
+        "taxonomy":"Dinosauria, Saurischia, Theropoda, Neotheropoda, Tetanurae, Avetheropoda, Coelurosauria, Tyrannoraptora, Tyrannosauroidea, Tyrannosauridae, Albertosaurinae",
+        "namedBy":"Lamb (1914)"
+      ,
+      "icon":"https://lh3.googleusercontent.com/pw/AL9nZEWfgycygdTUmD9uA60GU7gDhftS4rlubuTt7V3CMu5FlzFWUH1tTkmaOXCDVM8pVWC23vZ1R-oUS-feSYXKif_rYEZFAzUHDjtRJ9WjAE5Tx2ApgVHK_Sa2bkkidAY0m04GSjv2DU9wF0SKM50XaHA=w418-h412-no?authuser=0",
+      "skeletonImage":"https://lh3.googleusercontent.com/P-oSJdI35jpBepgqQSlisPZF-I1fALGzvz-Ag-wRJSicG33RS5jnEwrhTxClxzMO1GF9uwu5MaIppL2mODgqgkH-CpJ3uhI2CZW7qUO4YpHprJOjzec3PVe5FONfDzILrE4417TJg3fI3qHe2Ei7QY3MMnAIx7aLQ2CIvFBe1q0hbxtTuDf7e3XG9PFri7q1yZWCd2O0TxvHEQbGlQvpjK8lkR3WsMtaasPYhlaBGz-4bMR0L2R_WlmtCtLAYArRzd320V3Q8ZwXKAzG8u8G9N20sGAm4nd61R7WhhJxLN9DTlPtbh43X4Zky9FMxVACGsIqddYA-qEERqFcSEVLxQfTco5OvbgF6Oqi93vw3r4f6430fXeVpmk6cl2Rb0jLWyzJXYDG7oi7iKMQARoGaUV9pbvApO4xy5J5yHDPQ6xzONEBRlToMm3A5GavJvKpfNm5EuBDxfwokOrV6pDpK9CWi4noi8bB6cCIPJB1gPcyMEWhyAldd3vwd491dUGkDvKPuOVGSRjFT7ByovcO1zq6FAPUUSNkwpnDS9_IWPVvHlHXJMZeVK2NyeEuFJfLbRmI8cEYWqVUXrl7oHso9CoqP506SDSDZtkDsmNI8oXb5LNsIBq3eNCP9TpnM1Wydty_0TA_zT_aI3fxafBFvZWl_D9_fMCq4mE-9GuPnvz1Y5j5yt9S96igj9SAFlSMKm-mgONYBFdb4y6BcC30CWQEJF0rP9diZIxZDTqzjvcMkGn5K525AKjCB1Gn1XEkq6JDU_6QTMf-8ZXGI93VXGP9otwpWPQ9DGKb8AWAJyM060ZVcaob-LBlBMwUDPC3Moz4LN90PQRKiX12k2n6XTm_-W9qaZOhhba7YTj93ulur3N0lraynJbgfpXiweY_S7WN0pNdGTEYuE6ljig8N6xVX1IpytlQy1YqoeEImmQ=w900-h442-no?authuser=0"
+    
+    }
+    ,
+    {
+      "diet":"Carnivorous",
+      "name":"Spinosaurus",
+      "pronunciation":"SPINE-oh-SORE-us",
+      "nameMeaning":"'thorn lizard'",
+      "temporalRange":"Late Cretaceous",
+      "temporalRangeNumbers":"95-70 million years ago",
+      "type":"Large Theropod",
+      "found":"Egypt, Morocco",
+      "length":"14 metres (46 ft)",
+      "weight":"7.4 metric tons (8.2 short tons)",
+      
+        "firstParagraph":"Spinosaurus is the longest known terrestrial carnivore; other large carnivores comparable to Spinosaurus include theropods such as Tyrannosaurus, Giganotosaurus and Carcharodontosaurus. The distinctive neural spines of Spinosaurus, which were long extensions of the vertebrae (or backbones), grew to at least 1.65 meters (5.4 ft) long and were likely to have had skin connecting them, forming a sail-like structure, although some authors have suggested that the spines were covered in fat and formed a hump. Spinosaurus is known to have eaten fish, and most scientists believe that it hunted both terrestrial and aquatic prey. Evidence suggests that it was highly semiaquatic, and lived both on land and in water much like modern crocodilians do.",
+        "secondParagraph":"As a spinosaurid, Spinosaurus would have had a long, muscular neck, curved in a sigmoid, or S-shape. Its shoulders were prominent, and the forelimbs large and stocky, bearing three clawed digits on each hand. The first finger (or 'thumb') would have been the largest. Spinosaurus had long phalanges (finger bones), and only somewhat recurved claws, suggesting that its hands were longer compared to those of other spinosaurids.",
+     
+        "taxonomy":"Dinosauria, Saurischia, Theropoda, Neotheropoda, Tetanurae, Spinosauroidea, Spinosauridae, Spinosaurinae",
+        "namedBy":"Stromer (1915)",
+      "icon":"https://lh3.googleusercontent.com/pw/AL9nZEWrj_L3HX5p26EJzvljRHq0gcq4-jsamnYDNHoZuj_p5s6mbOYPfvvvLCPJ2VAAr4i0dd833sP7PH4w7tcjUCLuG4_Os8M8N7YpTlPxYGIwu_Zf8rfwdM8VVHlDLiKgKOMfd1qvr_DAY-R6uF0bR-Y=w600-h324-no?authuser=0",
+      "skeletonImage": "https://lh3.googleusercontent.com/otINJ-YmOcM1OlIpyvn2H_DRI3kOwPDVMpnD9L3fegusn7pJxJiQlXkngfvu7paXtDnqgFcqRx4syz7aK7gGJM_7upNdzoZAv0IL7EQ6eDbrhVFD_b5V95puopqyvqDWa36FqzK6AGfBbY4Gww7BcA5qisVeCYnhcRsHVkcM-WXUUQJZt1vVyyVAWo2ulEtJkkUw95FOQDW4JzyhxGAjDx9JLiFUMFfScu8ItmjmKR_WYoxuFw0i-XurFfsGBH6h9nKOM8eYu2eHF7eysTcJzI5yU2s2yIL-WdCGQnnMA9EUbpt-jeNZ1T1BQassV9Ke2M5fk_rt2NZ49O927F7exfmyMFO5TLXGZMAIYL0AF4ubMZclOvo8DJ9Kne3SzJJpCNIPlj7SoQQS6aaWgeLLaASg7DH7KjKZlEIrSZnAvkGkLpSnrPnFS4VWPs3iAYEZDTc2JwNMU-1l9LVAk6yGBwyWui0x-5qc5z1iEzYVqXaDpF441dPmN7s9RKUZOe_bUI9Kf821sPCE6DnsXpmjaLW6xngfuXju2BV_8KO8oVbVxCZIYVnLB78rB4LA0U91cz5HU2arSDrTR-XVOWSgAsagHYIvuYzSzQ0RtvAyvA2O-Sx5wVvtzf7XC9AXKsJcR2mOPJZrCu1xh_ZQymUqe34baDOLpzkiaziO3eCD2x9xX1CylborR0ohgPJFKnFy39cI3rz3nNLec3Z4y2mTdv9a4Ed58qTp6TMENy0oUhP76n0vsnxcqMF2vjtWKWuB--cQj3rOj5icH31-qG25P5rJrO7WzR-kfLbY_lX_m8urpk2FbaJqsc9asOxjwOYsH_ChRWcQN7Ywz0Q5P14kbxnHuh5Cns1o3vThP1IpuFiB40BWFL-cfnsK9TjHxt52EDkxWwQir00vW_4s4vgLjR0NZLT1n2BJvrNc1pJCAjli=w1065-h428-no?authuser=0"
+    
+    } ,
+    {
+      "diet":"Carnivorous",
+      "name":"Dilophosaurus",
+      "pronunciation":"die-LOAF-oh-sore-us",
+      "nameMeaning":"'two-ridged lizard'",
+      "temporalRange":"Early Jurassic",
+      "temporalRangeNumbers":"190 million years ago",
+      "type":"Large Theropod",
+      "found":"USA",
+      "length":"7 m (23 ft) in length",
+      "weight":"400 kg (880 lb)",
+        "firstParagraph":"Dilophosaurus was one of the earliest large predatory dinosaurs, a medium-sized theropod, though small compared to some of the later theropods. It was also the largest known land-animal of North America during the Early Jurassic. Slender and lightly built, its size was comparable to that of a brown bear.  It was slender and lightly built, and the skull was proportionally large, but delicate. ",
+        "secondParagraph":" Dilophosaurus would have been active and bipedal, and may have hunted large animals; it could also have fed on smaller animals and fish. Due to the limited range of movement and shortness of the forelimbs, the mouth may instead have made first contact with prey. The function of the crests is unknown; they were too weak for battle, but may have been used in visual display, such as species recognition and sexual selection."
+      ,
+        "taxonomy":"Dinosauria, Saurischia, Theropoda, Neotheropoda, Dilophosauridae",
+        "namedBy":"Welles (1954)"
+      ,
+      "icon":"https://lh3.googleusercontent.com/pw/AL9nZEUzpM-tEqGh4aohNp38L2FOMMcs7mINMb2BzV_57bSVTxbkrq0fHWqSwfADOfQOs99ui2HAlT6eaz46hCNY6ckD-dYQg3Uy_9FyAlCx_F2NH60SefXkAEC3cB6q2io_iJ6-Xjlh5sSFSGo9oD4435k=w508-h492-no?authuser=0",
+      "skeletonImage": "https://lh3.googleusercontent.com/WiHg_WjWyS3hTcwlA7PN9Hk52wxjrETde9b_W5qM9ffzBK4aAOqHMB7b1wRKnXqG9C8riX-Zc1NNbi-gvT881bLbnCTlmP89_Z6WJUCLaF2Bi86ksQMv02EgYxXKv8rnL2UX0JruMd35CCyhM6Hq3hqAYM8ovYio4JQFloXIy2pQNl93f3nPXXErHqdgKMksMOhUEHTGqS3wcBrNNICzoSmZCleEcgDXaAqXqSwqM-NnUT_5vEVRhdcmSO7H0ePiEJ7SpD0gSMMAyj15rr0XRqjg3QM1xiJmzhp_BtorD-uAWQuPD6D3mbi26OsQNZluMnNxe8dPMgzsbKeSxr5b4MuFH7SJZYsvdTogoK7fcRE2naPW7dQwJ57zhXkwv6uksHjAKeQ4GaT-kbOB3tPDDBf8T8YzVgPKRJFyIqedXBQcYEPEV5H3_7MFJk_KSYwzONtkbjZ466cG3AHihtNkaeyeHW5bdKBGnDBC81vgqoKStMAFrz_ywcEdGU8UZakK8I1WEaD0VCFC1sMlvXsy8wEzDlP3Hsn2HrR2FvPrJZbXi0blPFzvMMYwQr66CZZWSLFJ6jYHXPdZQlgsb1YkWWLB-3b4eK7ZLSniVGehXLHMkIls7VBqyj8IOMnvUA2reYDRMt80dXESDYOaU01KHlv8_fmb1sCdYKDCQgJbR-pkG8iMB-7ns5FM6E5QDGCdLVzvrGjQbZXJsH78ySKVP1QReuVYyEgOeiY7XAH9UH0PBExFmi2Y9WRMybgRNiWsxLCaljv6uqBn_1HMiR2qHcdStKfvyMo42v9LCYMjgmPt9U4YRMzWNC51wU6ncWJOM_FymFPdVArcPKAY1jO2Bmxnss1oeVMbm7ZdtTkY9SAeuk32eWS15-Egos7wyKEQV-8cyCK-pl5Zm6oFviycaAMOZE61r7ZLlBmyHQTEZqBX=w1035-h402-no?authuser=0"
+    
+    } ,
+    {
+      "diet":"Carnivorous",
+      "name":"Allosaurus",
+      "pronunciation":"AL-oh-saw-russ",
+      "nameMeaning":"'other lizard'",
+      "temporalRange":"Late Jurassic",
+      "temporalRangeNumbers":"156-144 million years ago",
+      "type":"Large Theropod",
+      "found":"Portugal, USA",
+      "length":" 8.5 m (28 ft)",
+      "weight":"1.7 metric tons (1.9 short tons)",
+        "firstParagraph":"Allosaurus was a typical large theropod, having a massive skull on a short neck, a long, slightly sloping tail, and reduced forelimbs.  Potential prey included ornithopods, stegosaurids, and sauropods. Some paleontologists interpret Allosaurus as having had cooperative social behavior, and hunting in packs, while others believe individuals may have been aggressive toward each other, and that congregations of this genus are the result of lone individuals feeding on the same carcasses.",
+        "secondParagraph":"The skull and teeth of Allosaurus were modestly proportioned for a theropod of its size. The skull had a pair of horns above and in front of the eyes. These horns were composed of extensions of the lacrimal bones,[18] and varied in shape and size. There were also lower paired ridges running along the top edges of the nasal bones that led into the horns. "
+      ,
+        "taxonomy":"Dinosauria, Saurischia, Theropoda, Neotheropoda, Tetanurae, Avetheropoda, Carnosauria, Allosauroidea, Allosauridae",
+        "namedBy":"Marsh (1877)"
+      ,
+      "icon":"https://lh3.googleusercontent.com/pw/AL9nZEXZUlllLLpss2OdseUGchd04lPazixsUeoY4ADgnlTUN9sramGNcNWra4v6MDihfN-XeMTOjAhYdSR4mDIUT4cVQCPgwLJhGy1rRbZtEiLnCVHemDjTsgfvvFSyaVk4-U19Rib3ydIfJrGI9X0m6o0=w686-h439-no?authuser=0",
+      "skeletonImage": "https://lh3.googleusercontent.com/aPHkCduDVmac8rySjVjEuLIly_VvvxZiTcBWZ0oZSQD0rPhVOhxetjLg83dEkv59VJafUXLbFvFAImZydl_cW3OKbhHHU6EeutyuXV9dvE88PSE5kreZzXClqZ2SaMTWCFvOFfGAiDaPSXwz8ymWeT2e7jNxvZvokUJ3s3cr-weah2P_5IQGPM_fK5ak-iOM6IlzCHRmXgWtfJQy04wzEgYgYJDGj1SXKvNuxdK4DPtAGF95TzrhlCTB2r5iOgEGat7qYU3x91iedldpm_STtwO_FIPHqhgK4lZVZiJsvZBoUFKkzk6ZhRySu7zyGY8ihwRFu0Q3KoHO90x0n8XTxfyydMcNatF-GL7_8ySAXPVwfDNDrTEx_lVDYdYEpg-IJ5P6cRPSZfxORPs1MyIP8CJ4JEUwaZ2U5iJkDpyyjM5tRtkDITsndQdrEoPVY3ynrxw46fbop6_qit0tFzCL0z6_-2DHa9wbSbdqa4IKxKAh05KcPLS8ycI56lNkKniQNx85t4e_FI5fQo75YtQaXYbVKStcXnKv1T6hajYM8j7ui8VNT1B1Ug94b6kaHt_OPp2NZQdcP4BbPrBiqpkkJPC_Smx1F7MsSqxuQ4MLd25DsIsT5tEbHD3jHVzmqTYVRatmCbRB8wHuGYGlM3hKFISGnRHQuZumC4mJzc-TYviiZ4LSEnjx8eJjgnAL78Me1g_aXBmEpfqUJ7iriPSnNJyQmOVGM2M9-W5TOtY2sxOk9AwybP-nQ-xj3oXhR_QAiLThj9qW4HfNOAaIo4hOr4haz-_RZV0WFEcPawTXzjwAEzeledydRG5RDrCs5oGBtEHnXCRdef0C-_uJb9LOaQAcze1SDnGyILsdMV5npeUuPgWLj6AZ6ISL7QLJ_l6eQjEAcJMPBucK-DLhMH7hmbOsZSDHz59J5_G3HFOsFi30=w1065-h389-no?authuser=0"
+    
+    },
+    {
+      "diet":"Carnivorous",
+      "name":"Oviraptor",
+      "pronunciation":"OH-vee-RAP-tor",
+      "nameMeaning":"'egg thief'",
+      "temporalRange":"Late Cretaceous",
+      "temporalRangeNumbers":"85-75 million years ago",
+      "type":"Small Theropod",
+      "found":"Mongolia",
+      "length":"1.6 m (5.2 ft)",
+      "weight":" 33–40 kg (73–88 lb)",
+      
+        "firstParagraph":"he genus name refers to the initial thought of egg-stealing habits, and the specific name was intended to reinforce this view indicating a preference over ceratopsian eggs. Despite the fact that numerous specimens have been referred to the genus, Oviraptor is only known from a single partial skeleton regarded as the holotype, as well as a nest of about fifteen eggs and several small fragments from a juvenile.",
+        "secondParagraph":"The skull of Oviraptor was deep and shortened with large fenestrae (openings) compared to other dinosaurs, and measures about 17.9 cm (179 mm) long as preserved. The actual length may actually be longer though, given that the holotype skull lacks several regions such as the premaxilla. The holotype skull lacks a crest in almost its entirety, however, the top surfaces of the fused parietal and frontal bones indicate that it likely had a well-developed crest, supported by the nasal and premaxilla bones (mainly the latter) of the rostrum. "
+      ,
+        "taxonomy":"Dinosauria, Saurischia, Theropoda, Neotheropoda, Tetanurae, Avetheropoda, Coelurosauria, Tyrannoraptora, Maniraptoriformes, Maniraptora, Oviraptorosauria, Caenagnathoidea, Oviraptoridae, Oviraptorinae",
+        "namedBy":"Osborn (1924)"
+      ,
+      "icon":"https://lh3.googleusercontent.com/pw/AL9nZEULaeH8YwT-VcrXWvBfb_tgigckMH7sYkXpDgKzFCe1Mo4Bskehba2SKK2yTJFeMUMS0V2s2-mffRP5CFmsdzHI1S1xkFCFHI9wMgZKofn-hBxZ3ojo-YquD-n7ybaeWauL_oFaCrpLYYdv81p6Dzs=w592-h421-no?authuser=0",
+      "skeletonImage": "https://lh3.googleusercontent.com/0exBYxskoU-iaaUJ8Yzg4QOCcrAvSgc5jggbl2dbO879XCm07oitbSUAjsyXQOlYqPaaiBxRSLUMdoK-OHrFDkOmnPPKcWQBH9ETDxqkQ9ed7BEk2DSBTSkmGA4lKKAM3jRFwYg3bd-1sM8Lvx-gcI416CMGmFld2HBzUX55Z133crjRfMvn4TPK4OT6q5clIYO8gWer_35dNaMSo_xOYD8z1Wsnc_MjZRfZ_Bd1HEhRTGS9PftCdxq8hGyvyUF1LzOAvOBfYvDCOXvFXOXAlhn5LP60Qhneg9M1YerYsgYrxCUt1UhpPK3k7rEeSsPDwQ-0h1NKKEWdkK-9b8umI-kccmkjMB0Lfb-tAKTnSyXg9AIaiZHhXnfwxvdMnnZeBS9eOqA7Xm-JNDahtwgYIfVPEGZlk-9L91dj9kLBUnr4pHTUHtp_LBOHQ28zea9g1HeXtJdEgdbpjtf3eoNR_FaT_L6p2F7okgoZhT1Te2UaBA3Pkb0QJ9ppDKalKMhbNiDw79ktb94nvYv8lTcf5LuO8ZzQgVwvibaNVTrm-dohtERHZx5kz_CdT2zO9CU9IUxLfGugy9jRiAG9jL-InFFbKcer2Qmozye9j4lkgXo-z0YDSJnHY3XG9NsDFrc6uJ-2ErUxEE0HSfDmotg_rFncS7lS07n-M7dgg_UW8oDAu-ilC1yD6j1rrI55Aj9-xU2u6-uCphA6i92bf3HW2no2Z6Yz-4oKmWqUygP9az-GxO3pLj1y50IcJ2bc8prJelPBtiGQP2468heP_CHoifIIzf8AsplYUslk5H4DQMeYZdFYTnadUV5T9Sx35GqWJVY3notmDauiBZxXT5LL9TTPoGVRbIq986ZFEzInz4hE3iLB4_YWMOrYfbjfQ5tVF4QfSCvx-Yf74SfLdnPzMAkSVmGRgFD0JjDrgsnLUBeZ=w932-h800-no?authuser=0"
+    
+    },
+    {
+      "diet":"Carnivorous",
+      "name":"Baryonyx",
+      "pronunciation":"bah-ree-ON-icks",
+      "nameMeaning":"'heavy claw'",
+      "temporalRange":"Early Cretaceous",
+      "temporalRangeNumbers":"125 million years ago",
+      "type":"Large Theropod",
+      "found":"England, Spain, United Kingdom",
+      "length":"7.5 and 10 metres (25 and 33 feet)",
+      "weight":"1.2-2 metric tons (1.3-2.2 short tons; 1.2-2.0 long tons)",
+    
+        "firstParagraph":"The generic name, Baryonyx, means 'heavy claw' and alludes to the animal's very large claw on the first finger; the specific name, walkeri, refers to its discoverer, amateur fossil collector William J. Walker. Baryonyx had a large number of finely serrated, conical teeth, with the largest teeth in front. The neck formed an S-shape, and the neural spines of its dorsal vertebrae increased in height from front to back. One elongated neural spine indicates it may have had a hump or ridge along the centre of its back. It had robust forelimbs, with the eponymous first-finger claw measuring about 31 centimetres (12 inches) long.",
+        "secondParagraph": " Baryonyx was the first theropod dinosaur demonstrated to have been piscivorous (fish-eating), as evidenced by fish scales in the stomach region of the holotype specimen. It may also have been an active predator of larger prey and a scavenger, since it also contained bones of a juvenile iguanodontid. The creature would have caught and processed its prey primarily with its forelimbs and large claws. Baryonyx may have had semiaquatic habits, and coexisted with other theropod, ornithopod, and sauropod dinosaurs, as well as pterosaurs, crocodiles, turtles and fishes, in a fluvial environment."
+      ,
+        "taxonomy":"Dinosauria, Saurischia, Theropoda, Neotheropoda, Tetanurae, Spinosauroidea, Spinosauridae, Baryonychinae",
+        "namedBy":"Charig and Milner (1987)"
+      ,
+      "icon":"https://lh3.googleusercontent.com/pw/AL9nZEXV5WdrWzkFo-tmT-aVc_vIDJQSosmR57bYQjaFJAEq0IO-wnsbijtPmoNeFELkvm8K-WoOqeF8F7mLS_P8086GpClR9ZT7AlpMZWrg_ESltLED5n0Bc-P6s7oE1eirSLHXgtXhWpvpHDcQMjWpzvc=w685-h445-no?authuser=0",
+      "skeletonImage":"https://upload.wikimedia.org/wikipedia/commons/2/2c/Baryonyx_Size_Diagram_by_PaleoGeek.svg"
+    
+    },
+    {
+      "diet":"Carnivorous",
+      "name":"Carcharodonto saurus",
+      "pronunciation":"Kar-KAR-o-don-toe-sore-us",
+      "nameMeaning":"'Carcharodon lizard'",
+      "temporalRange":"Late Cretaceous",
+      "temporalRangeNumbers":"98-94 million years ago",
+      "type":"Large Theropod",
+      "found":"North Africa",
+      "length":"1.42–1.63 metres (4.7–5.3 ft)",
+      "weight":"6–6.2 metric tons (6.6–6.8 short tons)",
+        "firstParagraph":"The genus Carcharodontosaurus is named after the shark genus Carcharodon. "
+      ,
+        "taxonomy":"Dinosauria, Saurischia, Theropoda, Neotheropoda, Tetanurae, Avetheropoda, Carnosauria, Allosauroidea, Carcharodontosauridae",
+        "namedBy":"Stromer (1931)"
+      ,
+      "icon":"https://lh3.googleusercontent.com/pw/AL9nZEU7AW208Lj8ft_tDexvYDkjd5Y23vTmpZXZCUpNxTO5HIRcVb8kxrL_6XXq2HoarKx0KD9MEV01TqMABzJ_WYDhf_d-e2JkpxE191F7VOhOtIRCzOBjuFsVkqT6-pFNHzYc9_wm2lMvPA6eV_8Bagg=w688-h482-no?authuser=0",
+      "skeletonImage":"https://lh3.googleusercontent.com/dT9aOKT_gi3BdLvdejzFOIAbBVmb6MSCjn17A_JeeSrncau7zORzCOOHjI1IVpvcIYXpiojrTx8fL13mz2_e_XnDU9yBIRKROtlQdarCUXsOovGwVbbcfXRC37eeuARqEKehXEn3j33XhgI9bqACP4FybkeoNy7nKhyfK2xCnY9a-dVJ2FvSWoyEGJazQ5lF64bHHyetyxSiTh2502pmd8jQR3fSp-e0CZGbWIj7rpn56N6EF450eJD4UpKaMUaRLTw1oKHL9eVJrem_aIoupI_uV1SwA5D1d3ARt37JDp_c4yuCaH3h4pWxJaPv6795pnjt3AlYMcXuCfuMhkcPiImvZ3agUS58yyLPUBxQMde-LqR7NhZhgeCE2mEMJa91CZPxd3F-coKMvj6hCGrDmnFhxi2m_chj5RodSgndRa-55p-L-4U_uhpHPLOpH1S4ISDgVd0HBZnzhyvi3Ihy95nF4XMxN7S7kLTqiuLNtA_3yTK6SysjTpr-Fel2O4_gJ_6iDhMHl0HJdnKSRKTNgT0hb_tzwfA5LnMWbEIT0vYymq3BpYfoP__AMbjft1NG2OixyAZXgCriqxJgCr5Vt7_10XK89CD3navXnOWt5TdXNgxvl5htMBnhddkkcOfSNYlOGcENP7h45QlmEYP1-1tNjaQI8SOegHKit4SzMS1oTcdAazD4l1PM4yyspAmW_XQb1eYGiwESJMf_sdmv3rq50Lw5485Z9z-SRLpB0VPGTYo_xS1G9ijIY9sqhDovhiXsIfG7dkk3F5ApIwmU-hmvNE8RZUIpKdoNyWdRNaElgIAAUl8x0bM4o-cIloxpA9iwh65A1vaoUIsC6bgLSBr7AKzbZIC0ztlr4Y-N4zSeFFnI_k6iTxqG6xocMFfBWbnI2QX_99rVMEzlC4COshzZKNeaH74rRFwh9yTsDR2p=w1065-h353-no?authuser=0"
+    
+    }
+  ],
+  "herbivores" : [
+    {
+      "diet":"Herbivorous",
+      "name":"Ankylosaurus",
+      "pronunciation":"an-KIE-loh-sore-us",
+      "nameMeaning":"'stiff lizard'",
+      "temporalRange":"Late Cretaceous",
+      "temporalRangeNumbers":" 74-67 million years ago",
+      "type":"Armoured Dinosaur",
+      "found":"Canada, USA",
+      "length":"6 and 8 meters (20 and 26 ft)",
+      "weight":"4.8 and 8 metric tons (5.3 and 8.8 short tons",
+      
+      "firstParagraph":"Ankylosaurus was a large pangolin, about the size of a rhinoceros and about the length of a bus. The body of this dinosaur was broad and squat. He moved on four thick legs, and from above he looked flattened and even looked a bit like a turtle, only he had a long tail with a powerful bone mace at the end. Another feature of the appearance of the ankylosaurus is thick armor made of bumps, bone plates and spikes. They grew into the skin and reliably protected the dinosaur from the claws and fangs of predators. Scientists believe that each ankylosaurus had plates on its back that formed unique patterns by which it could be distinguished like a human by facial features and lines on its arms.",
+      "secondParagraph":"Even with teeth as sharp as knives, many predators could not bite through the bone plates of an ankylosaurus. The dinosaur turned sideways to the enemy, and he ran into sharp spikes. And with one blow of the tail-mace, the ankylosaurus could knock down, break bones and damage internal organs. With such a serious defense, the dinosaur made it clear to the attacking predators that they were unlikely to be able to dine. Ankylosaurus could deftly control the bone growth on the tail, lifting it into the air and swinging it in different directions.",
+      "taxonomy":"Dinosauria, Ornithischia, Genasauria, Thyreophora, Ankylosauromorpha, Ankylosauria, Ankylosauridae",
+      "namedBy":"Brown (1908)",
+      "icon": "https://lh3.googleusercontent.com/hqg1f31dThUf4T38xX0I5ezyFDT0mZHu22QiPyY4-adrnzma9uE4p7zw2lnnyLobzLP7Wu0UYj1BmnfU706nDD_Swuj7KOBzxrQbJT8KEN_MlonxWbxv-ztiAH9qqb-YY-_1c9hIqkWI6nAFU52cqZMSUH50D2RnKSc4ZsaCMiCX2HDWj8dQBfwBNXECk5xvKOgzwlQyQ8fSL_-qRVWyq_wNNM55vkFloCQVgfMe5kidAiz1z9XwTFIL6x3xLqXI2hDK2rP7qduqDiHsxipBx1CFSQkP6Q001ZxQkMSjRCkHD9I1IJHywdVSWDW44f1R5LsDrOivsgTUhh9pMrS7xxUvKcx6m6Jh6Kd26Ve9oSpiwDyT6uabOzgcB3aRkbuksE2V4eFI3AC0LhG4O36Gbewnn7UvROM_jLbLH1u1lxfSwJEPmirCT5Q2_JmCGqtcx4ZJLF-zulXjo1yzEUmBT4WlBwi3z-LtGSIiFxgaEV-PBUxc1l7BPfBbzRmbRLsWhZT3-DNRYAyQtJeCG_i0xnZx-BJmr0VH7RpylHSbODmFczqxy2XDqIbFZqmlo8TmZc_s0D-5TK3uPpALx9v-ea4VN53mvE8L-FTISQogJkZuIO9CD-bgbG_dQzrkwH-mjJHAdKZSxUTQvvtFM9FEB1K713kYtCQ_v7tBjh2bzY76gvttrjx50hH_uxSY5fix_-4QNK8p4uKlHHj7OnGgPqaXU-sKOUJEYO8HlIV4wkSdJToRM3IaaHXhcCyRzQexfg7IiQl9oGftIbGPCdQs4kvrAb21qXdx217wQmdC4q4wZNBEvZYPAuGgOwo7d1ZMARHBMoMUgiGUFqBzp8u9rTghqS6PeFisX4DmdmsilVkdnr-5g13axezzlA1NvEmX_bYhX8l0hReHH7uYXwTSUa_QgqaDBoAeZjfQASbcf64l=s873-no?authuser=0",
+      "skeletonImage":"https://lh3.googleusercontent.com/pw/AL9nZEXxfK3bjwQ6o1sBXlSPsDBh0f59dBat1jLkurIpXVQX4vUjbwze4gJo0ZQ_GX1VkeGEcRKWpjcdooGShXTJxM9zrN_dQQbJZRNXhIM6wZysNG2zeIjSx-EyJ8SVqWhV4i4u_jMLSpeRaraQC0pzr8A=w1200-h506-no?authuser=0"
+    
+    },
+    {
+      "diet":"Herbivorous",
+      "name":"Brachiosaurus",
+      "pronunciation":"BRAK-ee-oh-sore-us",
+      "nameMeaning":"'arm lizard'",
+      "temporalRange":"Late Jurassic",
+      "temporalRangeNumbers":"155-140 million years ago",
+      "type":"Sauropod",
+      "found":"Algeria, Portugal, Tanzania, USA",
+      "length":"18 and 22 meters (59 and 72 ft)",
+      "weight":"28.3 to 46.9 metric tons (31.2 and 51.7 short tons)",
+        "firstParagraph":"One of the most popular of all dinosaurs, for a long time Brachiosaurus was considered the largest dinosaur ever to have lived on Earth - but in recent years it has been supplanted by even larger grass-fed dinosaurs such as Argentinosaurus and Sauroposeidon. Brachiosaurs ate only plants and had to consume huge amounts of food in order to provide the necessary energy for their giant body. As a result, they apparently left behind huge piles of litter. Probably, brachiosaurs lived in families or groups of up to 20 individuals. Paleontologists draw this conclusion based on the many fossilized footprints of brachiosaurs.",
+        "secondParagraph":"Carnivorous dinosaurs (for example, allosaurs) constantly roamed around, who were not averse to having lunch on brachiosaurus meat. In the face of mortal danger, the clumsy brachiosaurus could well try to crush the attacking predator by unleashing a powerful blow from its long tail on it. With luck, the brachiosaurus could well have defeated the predator before it had time to grab one of the cubs. Newly hatched brachiosaurs were tiny compared to their parents; in all likelihood, the skin of the cubs was soft, but with age it hardened and became covered with scales. Obviously, when moving, brachiosaurs had to keep their limbs fully extended. The body was so massive that the bones could crack under its enormous weight if he bent his legs just a little.",
+        "taxonomy":"Dinosauria, Saurischia, Sauropodomorpha, Sauropoda, Eusauropoda, Neosauropoda, Macronaria, Camarasauromorpha, Titanosauriformes, Brachiosauridae",
+        "namedBy":"Riggs (1903)",
+        "icon": "https://lh3.googleusercontent.com/IHhvFicUVI8Rgd-npUQWQzJJlDexISodePRYNVOH3DzsANpy7FiVdPqld_g0OQfttFfJjDQ57P_ptp6laALufjKyUR9bapQq1Ruj97oCtXo-A0WD6f_qs2LClU91RBQsTxHlTL49y9Mu7JbC4imBgFaUegjuU0iZ_svZzkR8UrdoIypnSjCzRqk1z87gepQVqHN3-VknjB2nLg4djPUagZXyvvkw4hJRkS9oUnq-7Q4Hi641kUl4Qx1OhFlRWVjugDkXtCkl5AoW0ZsQDe592NzgbflXfXIz6ChCjhK9JDXa9ce0sIOUAP5B8cC7p6ZBdnxyq0NlBFv5GG1nnm90CwH7j8eijv223mdocpyuT72mOs1XoRr0_DJ-wRaA9ga_O5JRNM9NFUbkCFYcsAbXE6ZSr4R7-vnt-EQe5IGe5s1eBSDlBoeAJ8DcnV7Xyu4NV9hzWmdO-0myMFWryYzxXiJblDz94vlCYlaVjEQSW0F5yM6xERRDyMKORf8LGutwhocYfGwbDWTFDU32JCxaocpZ9d2OWCy0LyVwphDV9RjWpaTc1dxtWaIzOVfGqQ1y7CrpxSC5Rb7YvG0OPjr7lnjRc8FWY6BrSefJDK7yaCrTsOrXns7CJrzG7OQjHM_bBySb8vJDflofyqkI3C0lHQAbVsbqxAcxlL4-JeOBXwTHGTB3cZDHNsShaNiiQYF4I527fTN2S2TMQTU2Kq2wnZhhalI_-IZ09L8qsWXMeX6tcdwaneQjEvVU0KpR2yIx_cJEfYA-Rgyacp6vmOjID6TsIKo6yXkDBTc1-EsAYiY7NDim9y2UUlF53ACZJ4151EiLay3oLLwB7pbWLYw6TTl66-Bl4OlDCYd0SlMdsRnqNhUN-qSpWxMVTau0EgASjPe_mQr5_aF3Olg6NmVA0RpRUq8oeyxaQO3IEbAhgGoP=w1000-h673-no?authuser=0",
+        "skeletonImage":"https://lh3.googleusercontent.com/pw/AL9nZEVScFbHnmNHH19mW09mStkDG3CWP7zu7RKxUH6VzrpHUqXOtPs19OSmHTp9u1C1qRhrSkt_PQqAGM6IO7pkzf_5VRuSgoE-q8mT8GzoYDOEeGMvLiZSPbCjgjJlnpp-4fbrZAW33FRvEafyYriKGoE=w1090-h702-no?authuser=0"
+    
+    },
+    {
+      "diet":"Herbivorous",
+      "name":"Centrosaurus",
+      "pronunciation":"Cen-TROH-sore-us",
+      "nameMeaning":"'sharp pointed lizard'",
+      "temporalRange":"Late Cretaceous",
+      "temporalRangeNumbers":"76-74 million years ago",
+      "type":"Ceratopsian",
+      "found":"Canada",
+      "length":"5–5.5 metres (16–18 ft)",
+      "weight":"2–2.5 metric tons (2.2–2.8 short tons)",
+        "firstParagraph":"Centrosaurus was a herbivorous 'one-horned' dinosaur about the size of a cow. There is some evidence that this dinosaur's horn was a weapon in its constant intraspecific combat between males competing for females. The impressive jaw muscles of Centrosaurus allowed it to eat extremely tough foliage. Many bones found in the province of Alberta prove that the herds of these herbivorous dinosaurs numbered from several hundred to several thousand individuals.",
+        "secondParagraph":"The genus is not to be confused with the stegosaur Kentrosaurus, the name of which is derived from the same Greek word. Later, vast bonebeds of Centrosaurus were found in Dinosaur Provincial Park, also in Alberta. Some of these beds extend for hundreds of meters and contain thousands of individuals of all ages and all levels of completion. Scientists have speculated that the high density and number of individuals would be explained if they had perished while trying to cross a flooded river",
+        "taxonomy":"Dinosauria, Ornithischia, Genasauria, Cerapoda, Marginocephalia, Ceratopsia, Neoceratopsia, Coronosauria, Ceratopsidae, Centrosaurinae",
+        "namedBy":"Lambe (1904)",
+        "icon": "https://lh3.googleusercontent.com/pjWhzZHFAPXCmmIe2YRWptY6WMTLVmz5tPGvKdXcMPS8IawuluarXE7ItbMXXfeWANQ77ZvYKKRaMZNC01dHwImqVBMUm65w3htGlev_ZN7bIw_tSzdqofJ8HIpchWnNxjeJq0s0nnIS2l5qAJNTa51g9y_6hBwez5cNljYFYw9bhB0Hw7fImXG7Zj-5nls2d041U6QEgRS_fEa1HtUmheWT7lQjLup10M4rD-qFaBxu5fGtKJ0JovqTMVtj8Sa-dBt5Ay6ONeDCZ7kAP7f7qdbLiwWr8A8UnqXfLpzDJn9SVEqwmkSgWYC7hSOvt3-urMnI-7J5JvceZ6shSbEpTj_uHkLItp7FbjeLn35g9VblsXrm51N9US30dGVRU9nCZeBOdRRT-kYLIo06LOvC8uGqf27o51wUSGfBXsPrVzzbuBIYP6bcafNIpnu8YkA4xnMmdLnSjwKFB8S_YFz70EqO6q_ZNdldFPISIaqkGg9QX0Elxjt4TiL19lW8jwOaQUk6WmsFP__YPvJjJszhrKnjtVrhu2Ye6Pjng5lni1fRXDKQWC6hg05Bt9hMMG5qVmKeneXDbCwPoCeQFHgfdwbqU-Yda5cZag-oo_D0kpVhgZmkf69T2CMOwPtuxII6WBuOZ0lEqcEI6j0L9Iid98yq9de80M4XFKPfe1aMDNPYLTWR2NNLtgkGNPeS3MTtu6g6aBbh6ovoM4_Fm_EGF9pOxhTqB3sTqMa_n5WDUZ7srcz_08ffjQ1Zgv0-gRxAih4w-idCmyZAaPcnLScKIMrrHXGzizG8LtOOygjqJARj8rskPKhNJ7kVPxaygW0ebCE5zR9QQ6KX3qky72GZi54aX-ri0vsazBGjfvV8X0okHegLK5GwG9_2OcLhQx9Kw9yV3OAE7JRHI0G_ZcF1-BKXFW9NomUSH7GQoyaKCSWz=w997-h720-no?authuser=0",
+        "skeletonImage":"https://lh3.googleusercontent.com/pw/AL9nZEUrq_ChpcPfkD2h9APXaAVSTYCiEbyU4QHHUm8BlosjTAlhRyYWI3cfcIPLKpCpxdyLxeq84Crj4WqyqcicLx0apGUc2D4Q41OgTCABPh9XPS8a2xB1i-atBxsWkLFpKpG7sgPUmyfDrFmkFEeYK10=w1090-h473-no?authuser=0"
+    
+    },
+    {
+      "diet":"Herbivorous",
+      "name":"Diplodocus",
+      "pronunciation":"DIP-low DOCK-us",
+      "nameMeaning":"'double beam'",
+      "temporalRange":"Late Jurassic",
+      "temporalRangeNumbers":"155-145 million years ago",
+      "type":"Sauropod",
+      "found":"USA",
+      "length":"24–26 meters (79–85 ft)",
+      "weight":"12–14.8-metric-ton (13.2–16.3-short-ton)",
+        "firstParagraph":"The existence of diplodocus fell on the Jurassic period of the Mesozoic era. The remains of the lizard found by historians are 155-145 million years old. The dinosaur lived in the northwest of America. Most often, fragments of the Diplodocus skeleton are found in the territory of the Morrison Formation.",
+        "secondParagraph":"The small head of the pangolin, within 50 cm in length, contained a brain the size of a little more than a chicken egg. Sharp thin teeth grew on the front of the mouth. Diplodocus' nostrils were not paired. The breathing hole was not at the end of the muzzle, as in typical representatives of the animal kingdom, but in front of the eyes. The head was held on a long thin neck, which was parallel to the ground. Its length, according to various estimates, was from 6 to 8 m. The number of vertebrae - from 15 pieces. The neck bones of these dinosaurs were hollow.The tail helped to balance the long-necked diplodocus. It had 80 vertebrae, twice as many as earlier and massive sauropods. In addition to the function of a balancer as opposed to the neck, the tail could serve as a means of protection from enemies. Voids in the vertebrae reduced the weight of the organ and reduced the load on the musculoskeletal system",
+        "taxonomy":"Dinosauria, Saurischia, Sauropodomorpha, Sauropoda, Eusauropoda, Neosauropoda, Diplodocoidea, Diplodocidae",
+        "namedBy":"Marsh (1878)",
+        "icon": "https://lh3.googleusercontent.com/gOBUjtz4jwire_mIhoUadgGL8bIwkEMuIvfpsvTMl2fnJ81RDRBCci7m_n9BkDAo2uD9UzrVUFZeSb5MuhGuxVtsKN1rQy-jhdTiZIIwzEuCpdXgmUUdRadG6ffzfBgyB8inKyr41wsaBlOfcWs2hGMXkMunJBdZzWGxIi_2_-gP9hpnMphFjnrhIEuAwqNIPP-gQBYbkuOTNzdDgWS1G6g6DoeQy3FR2fPBxmrY4JWa1msETbFXikpWYIUXwY5Q6M5Y30yAs3I32fhsNwaku7h49mZ3elHlFh9kfhHmVetMr2g4uMjezQyvwfRACzfRw_9XNAv06R_RwPbdS4lVYKKhxSbOZFGs95NsWgnjhhM8S1jCZ0mgOlAfZFtfHAYhfLNkSvv3NtYq749RB9OjEUYhY4XgtfFz0eBIg5BvYLpgu3qdRPLU0yV7GGVR8eR2HP8g0GdC76mghokZ_8h8_ntKkFM3H_8-ReL_UzrWfYOqEwhObVHziQRISZq2qtWkeomSEBvG_qMk6yiMG5JmCC0VhLV5t8KDPsMjGqk8OxgNM69mWzSxSmTVDQm-nRUqe2YmGsb8RmBr_Sh5cBdbbErBKBabo8GPV4kJlYDzjoTpmVjGFbOtQ4OjFMuKGUHT9DUaaHOUZs4SvarRM9qEymVBNrDCh-ecoUN3kWpRsfUjXjP5HtpjU-ToRd7iPGU9iRLkCxXNO0yAaB1_kw592cvfuoN7i_uAM4jaLDRlFYBbkeusqPXRhNHB5nWWaUjaHEnVG5wcWLnao6j_l-NXuOB_ZeJ6QU99k8Uxhy3KJYfa0xQqSk-RJnmMoWUsCnDasWkEX8wSyxBhwEafchcPv60JUOsaGhbKxO3zyq66TQIYdIAkslFyKlGiysQKcTEgmsbmtvkznDKk487T2CeVKI8DFS-0xDB9zRk7BA1yjoAs=w733-h550-no?authuser=0",
+        "skeletonImage":"https://lh3.googleusercontent.com/pw/AL9nZEVScFbHnmNHH19mW09mStkDG3CWP7zu7RKxUH6VzrpHUqXOtPs19OSmHTp9u1C1qRhrSkt_PQqAGM6IO7pkzf_5VRuSgoE-q8mT8GzoYDOEeGMvLiZSPbCjgjJlnpp-4fbrZAW33FRvEafyYriKGoE=w1090-h702-no?authuser=0"
+      
+    
+    },
+    {
+      "diet":"Herbivorous",
+      "name":"Edmontosaurus",
+      "pronunciation":"ed-MON-toe-sore-us",
+      "nameMeaning":"'Edmonton lizard'",
+      "temporalRange":"Late Cretaceous",
+      "temporalRangeNumbers":"76-65 million years ago",
+      "type":"Large ornithopod",
+      "found":"Canada",
+      "length":"up to 12 metres (39 ft)",
+      "weight":"5.6 metric tons (6.2 short tons)",
+        "firstParagraph":"Edmontosaurus is a genus of duck-billed dinosaurs. The remains were found in rocks in western North America. He lived in the Cretaceous period, between 73 and 65 million years BC. He was one of the last non-bird-like dinosaurs, with such well-known dinosaurs as Triceratops and Tyrannosaurus rex living with him during this period. Soon their era came to an end...",
+        "secondParagraph":"Edmontosaurus has been studied in detail based on three specimens. Like other hadrosaurs, they were very bulky animals with a long, laterally thickened tail and an extended, duck-like beak. The crest did not cover the entire head, as was the case with other hadrosaurs. Hadrosaurs are the largest of the hadrosaurids, with larger specimens reaching up to 12 meters. called duck-billed dinosaurs. But they are called so for the shape of their head, and not because they led a floating duck lifestyle.  The front part of their skull expanded, forming a wide duck's beak, with which the lizard tore off leaves and cones. In the back of the mouth, behind the beak, there was a row of cheek teeth, consisting of several thousand units, combined in vertical rows. Such an arrangement of jaws allowed the anatosaurus to chew the coarsest plant materials in its cheek pouches and eat foliage, needles, cones and branches from trees of any species that grew in the tropical forests where the animals lived.",
+        "taxonomy":"Dinosauria, Ornithischia, Genasauria, Cerapoda, Ornithopoda, Euornithopoda, Iguanadontia, Euiguanadontia, Dryomorpha, Ankylopollexia, Iguanodontoidea, Hadrosauridae, Euhadrosauria, Hadrosaurinae",
+        "namedBy":"Lambe (1917)",
+        "icon": "https://lh3.googleusercontent.com/0TzYZkZYpWM4T5VdTCiOlIUiReoTMd7zLOrhWpM5_CLxGdQV-eUHXcp6abq0BugJIvWTCBa4bCoy6sx9NMQFZ1GsrfLicl8oQUnuTrhUqRplpW_Ljjw-7BPorol_-G2KQ-_StZ6dl-nkmS-ggWKUiqSdaTEUOU-FG4jWSsV-8jhPC_I-nVXDZK33ExH4nKs6uVk1nc-tV2BAGtuFIF4jzsD40buy5dArRfNtiqidD9ROb7NANkiIMWzplLlAXjiH3w3igHg_zPOeJu6i-elxUUTH_vQhWknuTpUxaXG81m3mmj5rgn7dvKKpMOw66RRBjeGDmDwIVhJbcPZ0YJxH0Jl1TrjgVISYxNQ0Rev7YGZJSPAaeGb8PuOp568dTSoiOHmlxUR0BzkmnYlUbvuzktmdqXztSbWdG5InByiSU_yEpNX-LHjSDp1XKIlcp7WY1FYS5NLcybKX6nDTw2nBzeh-ra_xDi4kN3QMpI8tjAfb2_FF8spxi0cWfWXX5fMf69nZq8R-tlvqEJliJY1bHv5pW4HKXlIf3bMtiFMhvscgZ2pXqsve9CvwWK9TUgTalpY0-aksyfF9msn41RTnBovLrsoW2_yBGmmTujX59VPeZpiaU4R2Yc4HhvwOCQyXDesZD0e_DotQ0LSRwUWObDtIwXBaLgI-5wMY3t8V-aC226qKVN5TArPWcYOBeWm5rH-8BXpAG2A_umvBKfiuaEHMVopFei-lseHrhh1lHlZG_fFuHe3v4_xXTKkypmXVK6LmNUipdjFuiDGY7JeoPQmri3gGMa_eHGD5XgVC90kgIDw8-O_WflqRuY1tdYeSfvo-xClLljV9drRx50yfU1EFkhJMXtSxGnLBWrdpqtZB3e_pvNqkXzoAu5c_j3GLhAYff7hnws7xHuR3NJKEG38yNns8hpIRVaJTGmY8tsXg=w1067-h568-no?authuser=0",
+        "skeletonImage":"https://lh3.googleusercontent.com/pw/AL9nZEWrjgk-rmi1Iq0yo3ajSDH4QTHmMVRcQGHhJwpobxn2yBZOYI4UJD5imRzcbCQABrFrKuxNs8FvOTJDEIiul6vTF19riShG_c3uw67mMSbGfXLnjjUv_AE48LOSbkpm1Y5cmN0DsT6SrPHD7DCPoOw=w1092-h334-no?authuser=0"
+    
+    },
+    {
+      "diet":"Herbivorous",
+      "name":"Iguanodon",
+      "pronunciation":"ig-WHA-noh-don",
+      "nameMeaning":"'iguana tooth'",
+      "temporalRange":"Early Cretaceous",
+      "temporalRangeNumbers":"140-110 million years ago",
+      "type":"Large ornithopod",
+      "found":"Belgium, England, United Kingdom",
+      "length":"9–11 metres (30–36 ft)",
+      "weight":"4.5 metric tons (5.0 short tons)",
+        "firstParagraph":"Iguanodons were large herbivorous dinosaurs that could walk on four or, presumably, two legs. Representatives of the only species that undeniably belongs to the genus Iguanodon. They had large and narrow skulls, in front of the jaw they had a beak made of keratin, followed by teeth similar to those of an iguana, but larger and more frequent.",
+        "secondParagraph":"The forelimbs were about a quarter shorter than the hind ones and ended in five-fingered hands, the three central fingers on them were adapted for support. The thumbs were spiked, presumably used for defense. At the beginning of the 19th century, these spikes were considered horns and were placed by paleontologists on the nose of the animal, their true position was revealed later. The 'little fingers', in contrast to all other fingers, were long and flexible. The fingers consisted of phalanges, organized according to the formula 2-3-3-2-4, that is, there were 2 phalanges on the thumb, 3 on the index finger, etc. On the hind legs, adapted for walking, but not for running, there were only three fingers. The spine and tail were supported by tendons.",
+        "taxonomy":"Dinosauria, Ornithischia, Genasauria, Cerapoda, Ornithopoda, Euornithopoda, Iguanadontia, Euiguanadontia, Dryomorpha, Ankylopollexia, Iguanodontoidea",
+        "namedBy":"Boulenger and van Beneden (1881)",
+        "icon": "https://lh3.googleusercontent.com/kUqnoPofD4_fsEY232t3JFfLbt0yR8XvCTLlPuSJ6dZ8MPhapbrjEGWYTndftBF59wsDC3IHJBmWZIWtNIRYvt1iINOUx7VD-zyRL9t3ojQtuGooIzSTOvIXh7bKgsElCfcvzGzLurDoeB0qib2NiGDDDSeKu2q2iOPb3bukD_t4AL3ygI2Tnu7IsvqqYWEtuWd_VVbodUPpOPXhRUaMf7mig7kcEki0K8nM9EYaJVzetZUwXRhxvYBCPYK6q2B8FXAIywUhybNK-VVN087FotguDJXjRiRqILFC8sn0jhgSQeMt51eqh1aMJbNNAHk9cZ17LGKp-gNbRX_usHwpnqchbjyTcBpZJPX6Rcj75bTxnt28BNFWHgsZXdPkrXcVwjVypCHjfHCS5pWUrre6wloFbcUKt7rZCV8SlfMQ6UxE9s4qjhs4t8CHxp-MIhqWGpxQsjwg4y0kcYxOKDtvLa0PJx0L_-3pJMkveZz1BFCkGnKUxTf_4OaFyldx44W5ZrmYZw2e4AYHRNK7efabaj4QwICwAhFQ-68FKNC6hUvga-hfrOdUrr_QmmWp4KyGsbCBpapG3ahvydENGKWvdekk3xXZX3BmF70TLn3qDHrk7VcwNXCKi_o7gb99hOOrvndpgm0hzAC2sEdJtriekWWimNiUFF_df1CN4Z3uk5iUEHBbXIqnNcgEZqh30nVBttVXEnxVQ_AlVQGaEbES0MuoQUTRS17Mf07GN2T_iC3Q5Hhf1M10N45ceGzQRjNtbCb6gY79f76mgxQyledpZ6nh3DOmh0At7ndkoSmsVwIehX1mefBLpe2ko_NtqTyAdgy5YRjjHzpYj-PSoioRq7AjM6O6heOw6_XrP6IgqZkbS6Ge2ATlEtEERcT3dlHXC44xIPwznylrdLew3eQYj4t3uW7x1hNLtYoR4gEslNqI=w1065-h710-no?authuser=0",
+        "skeletonImage":"https://lh3.googleusercontent.com/pw/AL9nZEUuGzqth5L9UeU6HUaT56a1LYoMC9HDUXmrYHrj6AbtxSMpKYOUS2LK5nKvsZg7qQ4Q1aiQ0EYuC5xnTmEgcrEA3rwh_PkL9Ql33GDc_0U6HKqDHhqwHICw9lHmPABBAPq3ZCwXGuh3ClxJMynKk0Q=w1090-h399-no?authuser=0"
+    },
+    {
+      "diet":"Herbivorous",
+      "name":"Parasaurolophus",
+      "pronunciation":"pa-ra-saw-ROL-off-us",
+      "nameMeaning":"'pa-ra-saw-ROL-off-us'",
+      "temporalRange":"Late Cretaceous",
+      "temporalRangeNumbers":"76-74 million years ago",
+      "type":"Large ornithopod",
+      "found":"Canada, USA",
+      "length":"9.45 m (31.0 ft)",
+      "weight":"2.47 metric tons (2.72 short tons)",
+        "firstParagraph":"Parasaurolophus - dinosaurs, the remains of which are found in large numbers. These dinosaurs could move both on their hind legs and on all fours. They weighed about two tons. An interesting fact is that parasaurolophus were completely deprived of means of protection from enemies, that is, there were no horns or bone outgrowths on their body.",
+        "secondParagraph":"Parasaurolophus had a very interesting feature - the structure of their skull. On the back of the skull of these dinosaurs there was a very long ledge-comb, the length of which exceeded the length of the entire skull. Inside this crest there was a channel that looked like a narrow parabola (similar to a trombone musical instrument). This channel connected with the nostrils of the lizard, passed through the entire crest and opened in the pharynx. Scientists believe that with the help of this protrusion, dinosaurs communicated with each other. Passing the exhaled air through the head canal, Parasaurolophus made low sounds that could be heard for several kilometers.",
+        "taxonomy":"Dinosauria, Ornithischia, Genasauria, Cerapoda, Ornithopoda, Euornithopoda, Iguanadontia, Euiguanadontia, Dryomorpha, Ankylopollexia, Iguanodontoidea, Hadrosauridae, Euhadrosauria, Lambeosaurinae",
+        "namedBy":"Parks (1922)",
+        "icon": "https://lh3.googleusercontent.com/j0mreYsh6aMpK1TTOVl0UakO94PDq9vFR0_n5Q39iSpaGZFPZ47ubefTF7r84pmnB_lMVR2xHj3cg1c4x3p-Ua26690Eaw3IDney3ogydM3R5_zPjK3I6MqqgUIVcmImxQp_BgR7N0KerQ4vOKNozROnrrqEqsQ6oXvyqIihHtXPLugyn_7alA6oWS5B3btqQxLbCO7j2bnVg5EgpYjiPoYuC_ZSndSaV7Iju20frT6Ej9TAYfpWlNzp6MS1E8Goa6cPSrMYNUNQDIuhSJN08TtD4B3g-PlyB--8FgkAcEE3zFClFHuYBOvIGBdm9A3cwRU1NV4W3Lflgwr6Pgdb65lJyUG2f-0mvhbPB1-BVYKoxrMmqObKPtOfNDEtwLJ2-E_ibuN8o272QW0JagUTUYDuJOW5OUyo_kHGo5CuJITAw7X893bc2Xtd1Zr8OIEw5p4ZQn1puTIhxMoRl_m3bEnAgq00a2MaBdxIQKwuZKDE_CD9hx8uHnwyjOqoGo5GEUGuSYYEKXlDtset__Fxek1E0FX6NcvML0UASsD94SppbgvXiLHJFXlDdGwya3Huz19lS6XHaxMsa0Mn5afpyDY4Tg2UU_0VAotV_SJ55w79AGOTxExrhSNGYYavUCR7Vx8wNlR5InzDpcLcM9altjWbCLHhauqm2xPhaFck96i6LsQ03fxe2GAVe0CUEFki-UuKePVqpltuqZ275r5iCtr2kKMnKyTcB-B_YucbGuFVeu0evfnzlXwinrWs3Iqxe8zI8elU-uEfsb3SakeNq3tDspMCunQ2hllVEGJI0RLqCOcjgdMgDtiouA-ptRX5B9dCkqfeiGt-34mSDmvrqp1qORSpZgb8bqEhedaBTz-L2I76Hfp630xKU-fpcDKwS-OtY3Nz6X-HrH-QNaLkmWqNCGjyrhlg-8f5mBn3mslH=w900-h631-no?authuser=0",
+        "skeletonImage":"https://lh3.googleusercontent.com/pw/AL9nZEUoGA9-I5M3f5nZNOLhm2BDSA0NgtsmjAvRlqITbTrk0f0qbdKVa025UchHUjKuOPtNN3sxC1wRjlHfOgW8SnE82ww-wcQnERKvYhTv068W1Uo39v_7XAtCnMyLMpi3OSJ85VKIdpEw_EVp2xrnhKk=w1200-h298-no?authuser=0"
+     
+    },
+    {
+      "diet":"Herbivorous",
+      "name":"Stegosaurus",
+      "pronunciation":"STEG-oh-SORE-us",
+      "nameMeaning":"'roof lizard'",
+      "temporalRange":"Late Jurassic",
+      "temporalRangeNumbers":"155-145 million years ago",
+      "type":"Armoured dinosaur",
+      "found":"USA",
+      "length":"7 metres (23 ft)",
+      "weight":"3.8 metric tons (4.2 short tons",
+        "firstParagraph":"The stegosaurus was first discovered and described in 1877 by G. Marsh, professor of paleontology at Yale University, who discovered dinosaur remains in Colorado (USA). At first, Marsh suggested that the Stegosaurus walked on two legs. After careful study and assembly of the skeleton, it was found that he walked on four legs and had two rows of characteristic protruding bone plates along the ridge. The plates were not outgrowths of the main bones of the skeleton, but were located separately, probably performing the functions of protection from predators. Having a rich network of blood vessels, the plates could be painted in bright colors, playing a role in attracting individuals of the opposite sex. Four powerful spikes (up to 1 m long) on the tail also served as a defense weapon against attack.",
+        "secondParagraph":"Despite the herbivory, the stegosaurus's dental system was poorly adapted for chewing food. Most likely, the lizards swallowed stones to grind the vegetation in the stomach, following the example of modern birds and crocodiles. Scientists suggest that stegosaurs were omnivorous and picked up all the food they came across, not excluding and fell. Despite the size and weight of the animal, its head was small, comparable in size to the head of a modern dog.",
+        "taxonomy":"Dinosauria, Ornithischia, Genasauria, Thyreophora, Stegosauria, Stegosauridae, Stegosaurinae",
+        "namedBy":"Marsh (1877)",
+        "icon": "https://lh3.googleusercontent.com/-H4qMJO6tsrh5jvzQXmil7BXdiBmiaQ41QKqN_mCt9bvZkvLKfJTqc_T2dFSyShyIOSYNLXIZpj-n0L1HNf51dj0WDMsDUFocDukAn6UWKv7khkLwL0D7SAmhekj4SK9SYZ5tl7wdpcg8Yc9645REKGkDSnMk4l3ilJdGi-sbf7NZq9HnQ7_RwzXW-swLo7gnz1bV-koNggl2dkfOedP6xU9D0LaBSvYTGhse-ESC-t9yppSNFI2drHEGT697b3PkS4sXYxBw7BHAM8QbFxhsAIkFxY6K13gdhNvbDGnSN5W1pjDUjc0EDZSpExu6DifI9oO3uM3N4egTm6L1CH7KRcNgK6Hv_GHZV7k06wp3L1FdghY0StxHy1D22Xdy-tO8vZ3SMrtoc339u3LZjovlkrvXGKRajgn97gmN5G0g2jaD3vS2x1R_Tc8aknBNs82SyEauWhZwx43MyJtitHAHlY6AxjJi_0Y5Ol2WEjzlbFrlV8KsC7vF1bTRZjgXeC-kEwgsKPpqSDb9Nhm2qSfExOQwwik2J1D0FIBspLFtHgnBbTB3Icd3Jcy2TCOoaLuBrPqTtMU9jz8sXo1vFzBiQwI2BWYGKQCQsS0YcKs-eVBAjZndPBEpO3YbAQXm7GGdlhePXcLbRi3L1WX8SwolVWAB_qJH565ELlFlzZ2CF2_TJrPWBnK45XsZPhBqV0KyhUuJx0IHVzBsUcEuA4wzf8HtXedpkkv-MUX2JJdNRzDywgWMK_t_QTWRu6CUDT8vSjMuq-Fyf7VSnC580bWtMzgh4rU9w_IDd-hveENAJguyvtzHVOolWW4O9Ui7B3KmZI-xc-RHk4xziJ-nSPPsKi1GfsW7StEE8L_dyNR8vr-kjrTNoGc_FVhWf9VIK1on1JFOD8PXwKeM76Tt0y8QBd6DCO1pukPxL5_bLd7qAdL=w1000-h673-no?authuser=0",
+        "skeletonImage":"https://lh3.googleusercontent.com/pw/AL9nZEWHljHDHd9HnwKbPSxYW8_82l4WEhxlusI_hoPXs27BwVBfmUtCq6jetYSGqncAhnJRH--n7lAWeoABslev0jxP_4C0PJov1dMHtPfYjpnXzrUh6N5Kvl0tKj5U_02s02SoLitVWCh1fc3iojIlLP8=w1198-h396-no?authuser=0"
+    },
+    {
+      "diet":"Herbivorous",
+      "name":"Triceratops",
+      "pronunciation":"tri-SERRA-tops",
+      "nameMeaning":"'three-horned face'",
+      "temporalRange":"Late Cretaceous",
+      "temporalRangeNumbers":"68-66 million years ago",
+      "type":"Ceratopsian",
+      "found":"USA",
+      "length":"8–9 metres (26–30 ft)",
+      "weight":"5–9 metric tons (5.5–9.9 short tons)",
+        "firstParagraph":"Triceratops is a genus of dinosaurs from the ceratopsid family. With a large bony collar, three horns on its snout, large thick limbs, and a rhinoceros-like build, Triceratops are among the most recognizable dinosaurs. Possibly the most dangerous predator of the time, Tyrannosaurus Rex could prey on Triceratops, but it is not clear if they could fight each other, as is often portrayed.",
+        "secondParagraph":"Triceratops horns were mainly used to fend off predators, but they also had other uses. It is not difficult to guess what else they might be needed for. The male who wins most of the fights drives away rivals and becomes the leader of the herd - until he has to fight for his leadership again. Triceratops, like deer, could lead a herd life, since the bones of many individuals were found in one place, and millions of years ago, male Triceratops could also fight for the place of the leader of the herd. Like modern deer, they could compete for females.",
+        "taxonomy":"Dinosauria, Ornithischia, Genasauria, Cerapoda, Marginocephalia, Ceratopsia, Neoceratopsia, Coronosauria, Ceratopsidae, Chasmosaurinae",
+        "namedBy":"Marsh (1889)",
+        "icon": "https://lh3.googleusercontent.com/vt8k0T9esgrBWrHFRFsZd5lUTlQbJxrSPIOhlLS1jF0Po0sqHZiXu6DioIA2mDHKDUIu4BxD0DItrSu5eAbJDBg8A1vr1QCysd0t58CWxS2EZ-Y2svmkMzz2t5m7pq-xre8yYg96HVRfXwCiKedihRyFozmI0GA2QbluLZ7nTf9DaIIYVu0aE6gdhmH0_J_iaw5RsFsNWJuxcANaxr1W2rY3nQ0eU1ls6OIfweMbjpQt8-BsBqFBUIUIeQ_oHXMNWTimZa0RgMIjzdZk17rG1CQjKBzVPFefF5GeBdc_Q5vLjxYoU2GDIR7IX_SKxJ2UUYrW8TCorQiCqJiP3tCcdhTOakkYcW5t-alfJpSpF4wAhMiXXbPKowhUeaH8jjune7wpmUUKinoEZ5_c6aqJFMnAWvaKqTAtViTCjmWh_3jOJwzMfgqf0Rv3FOLT2vPIZZIVwnZUU420uvuNuKnd_pmKPtpp_NQO3PoyEjIeTqXwhQjBc3t4JJATnjVj0hFmTJKVlZG-Rl5SeBLq1iqvxql4ROiF3bkBNLX9m7yQMNSWajzjLtWGlvK7e80H9qyv32LsGVE874CaCBYHxDYtgz3gFUsxVe3FTL6KsdoQJ6wKgPTcHfNU07Kzt34yESVsp3wHuXP1IQ05uVOrQkNXasK4FE5ZBE_6or1l0IWTEyd7AfLwU6AVSz4Bi9XBaQR1yCVjUbszcN7DeSDMyFesOgjvvS35930KUuGsZKDmuJuT7LrG8q0gaePKR6oBe1b_W83A7jsOJ9dyD0laxu0v3ggkEf10ONghO0Q2psBsarkygqZsvCKoCnWJNI55U1x8ar8EYVDYla88eKplxdbFHR9-reM_cFY6LZu2kmsJX5JJ1ypmwAY8zpXpzVHgZtviqb2sIfunAz60hnCXPz7TDyFjYkjz-NwQl35uCEUqRlJM=w1065-h640-no?authuser=0",
+        "skeletonImage":"https://lh3.googleusercontent.com/pw/AL9nZEWTiCv6CnyAs3S4NSgI7-cQRqnTb0VswnM9UFSrSoR_Quv_eZwaR0b474ORNOgHS0mjurveQ4A88-4U6E7WF5V8ejV-WvVfu48wi-H6i11mbMsWhQQ8sIjSl56ZqLbeL37ot1zkeTreir0Ne-FlIfU=w1065-h388-no?authuser=0"
+    },
+    {
+      "diet":"Herbivorous",
+      "name":"Pachycephalosaurus",
+      "pronunciation":"pack-i-KEF-al-oh-sore-russ",
+      "nameMeaning":"'thick-headed lizard'",
+      "temporalRange":"Late Cretaceous",
+      "temporalRangeNumbers":"76-65 million years ago",
+      "type":"Pachycephalosaur",
+      "found":"Canada, USA",
+      "length":"4.5 metres (14.8 ft)",
+      "weight":"370–450 kilograms (820–990 lb)",
+        "firstParagraph":"It is the largest genus of all known pachycephalosaurs. However, it is important to note that the exact length of the body is still unknown. This is due to the fact that the remains found for all the time are a complete skull and other fragments of the head part. Therefore, the previous range of estimates was enormous: from 3 to 12 meters. Only after the discovery of the remains of dracorex and stygimoloch did the anatomy of the animal become more or less clear. The most recent length estimates based on the latter are about 4.5 m. He moved on two legs. The forelimbs were small, but sufficiently developed. With them, he held the bushes or even collected fruits.",
+        "secondParagraph":"Now let's turn to the most intriguing area of the pachycephalosaurus: the domed skull, decorated in the occipital and nasal parts with bony horn-like outgrowths. They were blunt, therefore they were a common decoration. The thickness of the dome itself reached 25 centimeters! What was the purpose of such an impressive tool, reliably protecting the small brain of a dinosaur? Option one: it is assumed that the mating season of these animals was especially spectacular, when the males first flaunted headdresses with various bone growths, and then literally beat their heads for females. Thick skulls easily withstood such a load. But, like modern animals, it was more of a showy-ceremonial nature, and usually everything ended without serious injuries. Option two: protection from small and medium sized predators.",
+        "taxonomy":"Dinosauria, Ornithischia, Genasauria, Cerapoda, Marginocephalia, Pachycephalosauria, Goyocephala, Homalocephaloidea, Pachycephalosauridae",
+        "namedBy":"Brown and Schlaikjer (1943)",
+        "icon": "https://lh3.googleusercontent.com/pw/AL9nZEXqIBSqpU4hZHOYXF5QjZEmORyExHgmZYBPcmpJ2obqhhWx7Jmf0SnoQHrewmX6DF7kzEdeHi3bMIDQxRSPdKT-BZf6wd5tEA3HXUpGED2G6TJi9WJ1dQqm21vMgq7ftvGX7uPXRakQGH_c8fi-ZLs=w655-h678-no?authuser=0",
+        "skeletonImage":"https://lh3.googleusercontent.com/pw/AL9nZEWzqwCk1jnyyIf2ji1pzmyCPNGVj4Sj8Lut4NUsEwhEfDtEpDusff1sNFsJ9bHFViMUf6ELFiAix99QhrhFK0YC9jEC3aWS_uOVzWDKksAzayDgBC_6_TVw4QsgL4IVN3zRG4l2GZtxkhSULqu5j_4=w1065-h564-no?authuser=0"
+    },
+    {
+      "diet":"Herbivorous",
+      "name":"Ouranosaurus",
+      "pronunciation":"oo-RAH-noh-sore-us",
+      "nameMeaning":"'brave monitor lizard'",
+      "temporalRange":"Early Cretaceous",
+      "temporalRangeNumbers":"115-100 million years ago",
+      "type":"Large ornithopod",
+      "found":"Niger, Cameroon",
+      "length":"7 to 8.3 metres (23 to 27 ft) long",
+      "weight":"4 tonnes (4.4 short tons)",
+        "firstParagraph":"During the late Jurassic period, a group of ornithopods (Ornitopoda), called iguanodontids, spread throughout almost the entire globe. But when the pangea supercontinent began to break apart, dinosaur groups became isolated from each other, which led to the emergence of significant differences between them.",
+        "secondParagraph":"One such isolated group was the African Ouranosaurs. They were distinguished from other iguanodonids by a kind of 'sail', which was located on the back and stretched along the entire ridge. Ouranosaurs walked on their hind legs. Their forelimbs were quite long and ended in hoof-like claws. Apparently, if necessary, the animal could move and rest, relying on four limbs. The elongated skull tapered forward towards the end of the snout. Large teeth and powerful jaw muscles were designed for chewing coarse plant foods.",
+        "taxonomy":"Dinosauria, Ornithischia, Genasauria, Cerapoda, Ornithopoda, Euornithopoda, Iguanadontia, Euiguanadontia, Dryomorpha, Ankylopollexia, Iguanodontoidea",
+        "namedBy":"Taquet (1976)",
+        "icon": "https://lh3.googleusercontent.com/XP7JSt8JKk6Nv3XMDpe1qJ5h39lCSgTbkOgWAjN179E3X_BjKrqJ8F_SzvsYHy_XgNboNZmfqzNO_fQkxyTkiFt-uqOWPrvUD0s7LR8pwE_5B-_gNqfSiN5gTM1mcJcNFNSSmEEAfICO1kCSYN9gfakNlGLsyXW6Kt9xqY0nqBCMuyRqdI9QQM-8Iv2TxktjK3a5xlyp8lI4UiBZTlPSrx40i6ffmg9V9fkEMrXRA2M5fwjz3V2cVIijXsm-Guh3-cOK9WOvIMPUFvHJSqrQ8O8TKB_euiUQLs47kSUn75CpMJxTMymGOOPQ0E1sIuhhxr77i60E-tMY4BMxfk14AWZRFkCwUPAMHV3QZdakPLKOyMZBObZMEF--vY98AGwb4eDfa6Uxk2HGQinWEd6vHYbkB5oWvlUly30B9WdF0weDLfeRww8JqTM7_uZIv9vZHbz7_zRK7xGt7Y3jHeKFPzUDxlp-3_w4tRRFmhO3yXHvrXhAZ526tQ64hQuVGz4HIZWcCNcFWPNJJlT7PWP_HdY4KI-lcH9i6MnetxCIHqXUMH9xlz_ooNpuIZ2mX5wXlkkng6qT3w8416BQ3DIKhE2KeYWm1-4IkiAMwrwHne0NTtIKT1w5jlMVdaCDVCKERlsTZ3zWXIMq-fGA_X_qoEXmlS3vM8kMJTfYjUiCoyAt--h1x1NaA-6MVsd1adYszkYyPQKYOzC4S8XZJ-lz7B6of_15ecwxxUSOLwAfobYtoovLzZvEB7xHmvnCrFyCkgwVrihG42SMDS8_5ZOJ9ZpaOljlnWJ9tcOFMuEHIScMBa_loTaUPu36IJiwRswMND8Yb0i9iu-H2jT3lXXzKTQEGkZ7KOVYFhiaXT0l8UiMXndHACktqM0mOxjBNv8Sawv52Dg9GujlBhWAWl7R-xmidb-N93CUBEpBYU0YZX2D=w1065-h669-no?authuser=0",
+        "skeletonImage":"https://lh3.googleusercontent.com/pw/AL9nZEWPvk3ZGWouQ7g1N80QzM8zUYzXyDawMYbmi0ijUE3ZoYTxBJ4TE9ZDxo6kFEsnMukEc0mM-u9P6IPlPlpG642RQE9ymaCsTE6NW47MqBWjzYkOA_nkjmBgcnY1nHW3mctF3r0KaOjFcnYuw-HviQA=w1200-h458-no?authuser=0"
+    },
+    {
+      "diet":"Herbivorous",
+      "name":"Therizinosaurus",
+      "pronunciation":"THER-ih-zine-oh-SORE-us",
+      "nameMeaning":"'scythe lizard'",
+      "temporalRange":"Late Cretaceous",
+      "temporalRangeNumbers":"85-70 million years ago",
+      "type":"Large theropod",
+      "found":"Mongolia",
+      "length":"9–10 m (30–33 ft) long and 4–5 m (13–16 ft) tall",
+      "weight":"possibly over 5 t (5.5 short tons)",
+        "firstParagraph":"The first samples of Therizinosaurus bones were found by Soviet paleontologists in Mongolia in 1948. At first, scientists believed that the remains belonged to turtles or theropods. When Soviet paleontologists unearthed many large (1 m long) scythe-like claws, they decided, surprisingly, that these were the remains of a giant tortoise. Evgeny Maleev named the new dinosaur in 1954, and other Therizinosaurus bones were discovered in subsequent years. But it wasn't until 1993, when a complete skeleton of its closest relative, Alxasaurus, was found in China that Therizinosaurus was recognized as a new dinosaur species.",
+        "secondParagraph":"The feeding habits of therizinosaurs are unknown, since no material skull has been found, which may indicate a peculiar diet. However, like other therizinosaurs, it was probably primarily a herbivore. The claws of therizinosaurus could serve in several functions: for example, it could defend itself from predators (such as, for example, tarbosaurus), intraspecific struggle for territory or a female is also possible, and even therizinosaurus could pull leafy branches with them in the direction of the mouth.",
+        "taxonomy":"Dinosauria, Saurischia, Theropoda, Neotheropoda, Tetanurae, Avetheropoda, Coelurosauria, Tyrannoraptora, Maniraptoriformes, Maniraptora, Therizinosauroidea, Therizinosauridae",
+        "namedBy":"Maleev (1915)",
+        "icon": "https://lh3.googleusercontent.com/FHq2cvqe1n5P6LXd3yvN-Ltg_efk_xNhbjyoa7BVWsg68mlEKim3zaHomxHVunB40N5QlNFJ_J3hLZxtsKz3PkZ5XsuVbuZNj-jGO8nruFsfTq8neyMRyfTarnkGodlBXKQPeAo5vfqvlzgITXRaa9XCi_vYOwVIKwLK7poJc8BHWc59VjgyUo4H57zyYmw6J9IKgDKru84yHB-ieqM1GbP9CT5xuuwvb3c-UAdzPkf0AWfua9DX4HUIPddL1CtczWS6UraqeP4qqh1Z6XFkdhZO53At0FUJR2tk0zCALalU0tnZ3FGHXqufVNeYCuPdMGnVMHsypJ05VGB7_3UcX3iyxB-zxlgm7Y6JNBs-jxEPbYdarEaWqpxtuaEQ8IqOjqMciTYrsti2d2WpdL0TEqZ1GNVyTfKuHEi2bPR7_C4WuTxlXPWEcmO7SIoFQHA_kpAd38YyZlCR8p9TbvkzlKKDeZY1zXPKFKE2cnth-k-Q4wxqAncM5MqlRBeoqce_iY3GFGCWo-JtRa0DFm3o4e3GrRoW8ksTrIyU9js4QpYjkMzcM100E1JihCglJzDnOS02VRwFiefU90TNxyf36ukWhNpirpvLckptP_-tGFrs1RgoMhty-ZXf9J1JBQP8plUVqx5bP3dP9ggf_Rel4lHCxfYDP8Anyv9Qo_fkbeFTg4Ci9b6cw5ixQlnrw-GK_z72Eyei2vfLL8wZgfRifHJt0T8e_RDkqh-7_-yo62wh0Ho9WW6zgt3Vslx-r4Bl4bYzRGgsMPZvQ93DsdWrHfFxUbgbpgcTulZEu7fI-0kY01_SberOVvZrheuPYZimhP3k1SNfQzcXC8jl83h2n291Ot-fBAjJmZNrqvl8lv-X1cFnnbrKjS04g_BCK6GP8hGVbxF98miN8YWzakC7i6coiwOFtJP5x5O1gKQXmUY=w1024-h662-no?authuser=0",
+        "skeletonImage":"https://lh3.googleusercontent.com/pw/AL9nZEVICYs_XjKzeDPFijiJdoebw40IVBAXrxad1SNaw3jDjVtPf4zqWizxi_4ColCb-nBmjSpJt827JH8iuGEuuX7F-GvaYz0skbbtyor5Y48NmQDdQFinonzY-uDHXkHZteY_gnrY8dz-YEFB680Wcvc=w1065-h444-no?authuser=0"
+    }
+  ]
+}

@@ -1,0 +1,288 @@
+/* description start */
+
+  .parallax-one{
+    position: relative;
+    min-height: 100vh;
+  
+  }
+
+  .parallax-two{
+    position: relative;
+  }
+  .parallax-one.content{
+    max-width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .description-heading{
+    font-size: 14vw;
+    font-family: 'Dalek';
+    color:#220901;
+    text-shadow: 7px -5px  #9c6644;
+  
+  }
+  
+  .custom-bg{
+    min-height: 100vh;
+  }
+  
+  /* .description-component-container{
+    background-color: #171717;
+  }
+   */
+  
+   /* DINO INFO SECTION ONE */
+  
+  .description-info.section-one{
+    /* border: 1px solid red; */
+    display: grid;
+    grid-template-rows: 1fr ;
+    grid-gap: 4rem;
+    margin: 3.5rem 3rem;
+   
+  }
+
+  .paragraph.one > h1{
+    font-size: 4rem;
+    padding-top: 2rem;
+    color: #6f1d1b;
+  }
+
+
+ 
+  .paragraph{
+    border-radius: 1rem;
+  }
+
+  .paragraph-container.section-one{
+    text-align: center;
+    margin: auto;
+    padding: 1rem;
+    /* border: 1px solid red; */
+  }
+
+  
+  .dragon.pic-container{
+    /* border: 1px solid green; */
+    text-align: center;
+    padding:2rem;
+ 
+}
+  .dragon-pic.image-component{
+    /* border: 1px solid pink; */
+   
+    -webkit-transform: scaleX(-1);
+    -moz-transform: scaleX(-1);
+    -o-transform: scaleX(-1);
+    transform: scaleX(-1);
+  
+  }
+
+  .additional-info{
+    opacity: 0.8;
+    padding: 1rem;
+    position: absolute;
+    width: 60%;
+    height: fit-content;
+    right: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .additional-info.parallax{
+    
+    background-color: #6f1d1b;
+    top: 7rem;
+    
+  }
+
+
+  
+  .dino-info-paragraphs.parallax-info{
+    color: azure;
+    line-height: 2rem;
+  }
+
+  /* DINO INFO SECTION TWO */
+
+  .description-info.section-two{
+    /* height: 80vh; */
+    height: fit-content;
+    /* border: 2px solid blue; */
+
+  }
+
+  .paragraph.three{
+    /* border: 1px solid yellow; */
+    margin: 4rem 1rem;
+    
+  }
+
+  .paragraph-container.section-two{
+    /* border: 1px solid red; */
+    padding: 1rem;
+    align-items: center;
+  }
+ 
+  .sluggish-dino.pic-container{
+    /* border: 1px solid blue; */
+    border-radius: 1rem;
+    height: fit-content;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 2rem;
+  }
+  .sluggish-dino.image-container{
+    max-width: 100%;
+  }
+
+  /* SAUROPODS SECTION */
+
+  .sauropods-container{
+    position: relative;
+  }
+
+  .scroll-icons{
+    opacity: 0.3;
+    position: absolute;
+    top: 50%;
+    z-index: 700;
+    transition: 0.4s;    
+    border-radius: 1.5rem;
+    padding: 0.2rem;
+    margin: 0px 5px;
+
+  }
+  .scroll-icons:hover{
+    opacity: 1;
+    background-color: #8d99ae;
+  }
+  .scroll-icons.left{
+    
+  }
+  .scroll-icons.right{
+    right: 0;
+  }
+
+  .sauropods-scroll{
+    position: relative;
+    /* border: 1px solid red; */
+    height: 100vh;
+    display: flex;
+    /* align-items: center; */
+    /* justify-content: center; */
+    overflow-x: scroll;
+    scroll-behavior: smooth;
+  }
+
+  .sauropods-scroll::-webkit-scrollbar {
+    display: none;
+  }
+
+  .sauropods-scroll {
+    -ms-overflow-style: none; 
+    scrollbar-width: none;  
+  }
+
+  .dino-info-paragraphs.sauropods-info{
+    color: white;
+    
+  }
+  .additional-info.sauropods-image{
+    /* background-color: #2b9348; */
+    background-color: #457b9d;
+  
+  }
+  .sauropods{
+    position: absolute;
+    bottom: 1rem;
+    /* border: 2px solid green; */
+    min-width: auto;
+  }
+
+  @media only screen and (min-width: 1024px){
+     /* DINO INFO SECTION TWO */
+
+     .paragraph.three{
+      padding: 1rem;
+      display: grid;
+      grid-template-columns: 40% 60%;
+      gap: 1rem;
+      align-items: center;
+      justify-content: center;
+    }
+  }
+
+  @media only screen and (min-width: 751px){
+
+    /* DINO INFO SECTION ONE */
+
+    .paragraph.two{
+      align-items: center;
+      margin: auto;
+    }
+    .paragraph.two{
+      display: grid;
+      grid-template-columns: 60% 40%;
+    }
+    .dragon.pic-container{
+      min-height: 3rem;
+      max-height: 20rem;
+    }
+    .dragon-pic.image-component{
+      max-height: 20rem;
+    }
+    
+
+    .sauropods{
+      max-height: 75%;
+    }
+
+
+
+  }
+  @media only screen  and (max-width: 751px){
+
+    /* DINO INFO SECTION ONE */
+    
+
+    .paragraph.two{
+      display: grid;
+      grid-template-rows: 1fr;
+    }
+    .dragon.pic-container{
+      min-height: 3rem;
+      max-height: 20rem;
+    }
+
+     /* DINO INFO SECTION TWO */
+     .paragraph.three{
+      display: grid;
+      grid-template-rows: 1fr;
+    }
+   
+    .sauropods{
+      max-height: 65%;
+    }
+    .additional-info.sauropods-image{
+      width: 70%;
+      height: 30%;
+    }
+
+  }
+
+  @media only screen and (min-width: 320px) and (max-width: 480px){
+ 
+       .paragraph.one > h1{
+        font-size: 3rem;
+        padding-top: 2rem;
+      }
+
+      .sluggish-dino.pic-container{
+        padding: 1rem;
+      }
+  }

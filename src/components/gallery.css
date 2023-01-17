@@ -1,0 +1,112 @@
+*{
+    margin: 0;
+}
+
+.gallery-container{
+    /* background-color: aqua; */
+    background-color: #333533;
+    height: auto;
+    /* padding: 1rem; */
+}
+
+.gallery-scroll{
+    display: grid;
+    grid-auto-flow: column;
+    /* grid-auto-columns: 22%; */
+    overflow-x: auto;
+    overscroll-behavior-inline: contain;
+    align-items: center;
+}
+.gallery-item{
+    background-color: #dee2e6;
+    border-radius: 1rem ;
+    position: relative;
+    /* background-color: #333533; */
+    /* height: 15rem; */
+    /* width: 10rem; */
+    height: fit-content;
+    margin: .5rem;
+    cursor: pointer;
+    /* display: flex; */
+    /* align-items: center; */
+    justify-content: center;
+}
+
+.gallery-preview-pic-container{
+    border: 4px solid #81171B;
+    border-radius: 2rem;
+    display: inline-block;
+    /* background-color: #dee2e6; */
+    /* padding: 0.5rem; */
+    margin: 1rem;
+    margin-top: 2rem;
+    display: flex;
+    /* align-items: center; */
+    justify-content: center;
+    /* max-height:70%; */
+    /* width: 10rem; */
+}
+
+.carn-border{
+    border: 4px solid #81171B;
+}
+
+.herb-border{
+    border: 4px solid #2b9348;
+}
+
+.gallery-preview-heading{
+    height: 2rem;
+    /* max-width: 20ch; */
+    font-size: 120%;
+    bottom: 0rem;
+    /* border: 3px solid pink; */
+    margin: 1rem;
+}
+
+.image-component.gallery-preview-image{
+   
+    transition: 0.3s;
+    margin: -1rem;
+
+    /* border: 1px solid red; */
+
+    
+}
+
+.image-component.gallery-preview-image:hover{
+    transition: 0.3s;
+    /* max-width: 85%; */
+    /* max-height: 80%; */
+}
+
+@media only screen and (min-width: 751px) {
+    /* .gallery-preview-heading{
+        font-size: 1.5rem;
+    } */
+
+    .gallery-scroll{
+        grid-auto-columns: 22%;
+    }
+
+}
+
+@media only screen  and (max-width: 751px) {
+
+    .gallery-scroll{
+        grid-auto-columns: 31%;
+    }
+    .gallery-preview-pic-container{
+        height: rem;
+    }
+
+}
+
+@media only screen and (min-width: 320px) and (max-width: 480px){
+    .gallery-scroll{
+        grid-auto-columns: 40%;
+    }
+    /* .gallery-preview-pic-container{
+        height: 8rem;
+    } */
+}
